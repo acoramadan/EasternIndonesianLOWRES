@@ -1,0 +1,33 @@
+prompt_template_id: translator
+prompt_language: eng
+riddle_language_presented: source
+
+reasoning_mode: null
+search_enabled: false
+batch_mode: true
+batch_size: 64
+
+temperature: null
+max_output_tokens: 2048
+seed: null  
+
+model_params:
+  model_load:
+    device_map: cuda:0
+    dtype: bfloat16
+
+model_spec:
+  model_name: gemma-4-E4B-it
+  model_id: local/gemma-4-E4B-it
+  provider: local
+  access_pattern: local
+  provider_model_name: google/gemma-4-E4B-it
+  closed_source: false
+  notes: local HF model
+
+  capabilities:
+    supports_reasoning: false
+    supports_search: false
+    supports_structured_output: false
+    supports_batch: true
+    supports_seed: true

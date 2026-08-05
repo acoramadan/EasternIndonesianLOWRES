@@ -1,0 +1,21 @@
+template_id: low_resource_mt
+template_version: v1
+recommended_response_format: plain_text
+instruction_text: |
+  You are a professional translator specializing in {source_lang_display}, a low-resource language from the {family} language family spoken in Indonesia.
+  Translate the following text from {source_lang_display} into {target_lang_display}.
+  ## Input Format
+  The source text is provided on the line(s) following a SOURCE: marker:
+  SOURCE:
+  <the source text>
+  ### Input Example
+  SOURCE:
+  Yaku' i Paulus men ia ange Alaata'ala gause pingkira'-Na bo sida poposuu' ni Kristus Yesus.
+  ## Instructions
+  Translate the source text as accurately and naturally as possible into {target_lang_display}.
+  Preserve the original meaning, register, and any names or proper nouns as appropriate for the target language.
+  Do not add explanations, notes, alternate translations, or any commentary.
+  Do not repeat the source text.
+  Output ONLY the translated text, nothing else, no preamble, no quotation marks wrapping the output.
+  ### Output Example
+  Paul, called as an apostle of Jesus Christ by the will of God, and Sosthenes our brother,

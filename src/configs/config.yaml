@@ -1,0 +1,22 @@
+dataset_path: "../output/pilot_dataset"
+prompt_template_path: "../prompt_template/template_master_1.yaml"
+split_strategy: "stratified" # full, lowest_verse_count, stratified
+stratified_target_size: 200 # only used when split_strategy is stratified
+batch_size: 8
+max_output_tokens: 256
+temperature: 0.7
+seed: 42
+top_p: 0.8
+top_k: 20
+repeat_penalty: 1.5
+disable_reasoning: True
+models:
+  - model_name: "Qwen3.5-4B"
+    model_path: "unsloth/Qwen3.5-4B-GGUF"
+    n_ctx: 8192
+    n_gpu_layers: 99
+    flash_attn: true
+    n_batch: 512
+    n_ubatch: 512
+    type_k: "q4_0"
+    type_v: "q4_0"
