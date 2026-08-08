@@ -1,7 +1,7 @@
 dataset_path: "../output/pilot_dataset"
 prompt_template_path: "../prompt_template/template_master_1.yaml"
 split_strategy: "stratified" # full, lowest_verse_count, stratified
-stratified_target_size: 200 # only used when split_strategy is stratified
+stratified_target_size: 500 # only used when split_strategy is stratified
 batch_size: 8
 max_output_tokens: 256
 temperature: 0.7
