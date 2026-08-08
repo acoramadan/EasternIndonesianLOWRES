@@ -15,6 +15,7 @@ def load_config(config_path: str | Path) -> FrameworkConfig:
         ModelConfig(
             model_name=m["model_name"],
             model_path=m["model_path"],
+            repo_filename=m.get("repo_filename"),
             n_ctx=m.get("n_ctx", 8192),
             n_gpu_layers=m.get("n_gpu_layers", 99),
             flash_attn=m.get("flash_attn", False),

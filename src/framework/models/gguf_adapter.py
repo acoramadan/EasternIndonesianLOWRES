@@ -18,12 +18,15 @@ class GGUFAdapter(Model):
 
         if not path.lower().endswith(".gguf") and not __import__("pathlib").Path(path).exists():
             from huggingface_hub import HfApi, hf_hub_download
-            api = HfApi()
-            files = api.list_repo_files(repo_id=path)
-            gguf_files = [f for f in files if f.lower().endswith(".gguf")]
-            if not gguf_files:
-                raise ValueError(f"No .gguf files found in repo {path}")
-            target_file = next((f for f in gguf_files if "q4_k_m" in f.lower()), gguf_files[0])
+            if self.config.repo_filename:
+                target_file = self.config.repo_filename
+            else:
+                api = HfApi()
+                files = api.list_repo_files(repo_id=path)
+                gguf_files = [f for f in files if f.lower().endswith(".gguf")]
+                if not gguf_files:
+                    raise ValueError(f"No .gguf files found in repo {path}")
+                target_file = next((f for f in gguf_files if "q4_k_m" in f.lower()), gguf_files[0])
             path = hf_hub_download(repo_id=path, filename=target_file)
 
         import llama_cpp

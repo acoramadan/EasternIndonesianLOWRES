@@ -11,12 +11,43 @@ top_k: 20
 repeat_penalty: 1.5
 disable_reasoning: True
 models:
-  - model_name: "gemma-4-E4B-it-qat"
-    model_path: "unsloth/gemma-4-E4B-it-qat-GGUF"
+  - model_name: "tiny-aya-global"
+    model_path: "CohereLabs/tiny-aya-global-GGUF"
     n_ctx: 8192
     n_gpu_layers: 99
-    flash_attn: false
+    flash_attn: true
+    n_batch: 1024
+    n_ubatch: 1024
+    type_k: "q4_0"
+    type_v: "q4_0"
+
+  - model_name: "llama-3.2-3B-instruct"
+    model_path: "unsloth/Llama-3.2-3B-Instruct-GGUF"
+    n_ctx: 8192
+    n_gpu_layers: 99
+    flash_attn: true
+    n_batch: 1024
+    n_ubatch: 1024
+    type_k: "q4_0"
+    type_v: "q4_0"
+
+  - model_name: "gemma-sea-lion-v3-9b"
+    model_path: "aisingapore/Gemma-SEA-LION-v3-9B-IT-GGUF"
+    repo_filename: "Gemma-SEA-LION-v3-9B-IT-F16.gguf"
+    n_ctx: 8192
+    n_gpu_layers: 99
+    flash_attn: true
     n_batch: 512
     n_ubatch: 512
+    type_k: "q4_0"
+    type_v: "q4_0"
+
+  - model_name: "cendol-llama2-7b-inst"
+    model_path: "mradermacher/cendol-llama2-7b-inst-GGUF"
+    n_ctx: 8192
+    n_gpu_layers: 99
+    flash_attn: true
+    n_batch: 1024
+    n_ubatch: 1024
     type_k: "q4_0"
     type_v: "q4_0"

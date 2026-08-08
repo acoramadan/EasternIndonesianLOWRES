@@ -9,6 +9,7 @@ from .constants import GenerationStatus
 class ModelConfig:
     model_name: str
     model_path: str
+    repo_filename: str | None = None
     n_ctx: int = 8192
     n_gpu_layers: int = 99
     flash_attn: bool = False
