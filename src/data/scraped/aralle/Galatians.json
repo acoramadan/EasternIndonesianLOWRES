@@ -1,0 +1,638 @@
+{
+  "book_id": "GAL",
+  "book_name": "Galatians",
+  "chapters": [
+    {
+      "chapter_number": 1,
+      "source_url": "https://alkitab.mobi/aralle/Gal/1",
+      "verses": [
+        {
+          "verse_number": 1,
+          "text": "Pano di ingkänna jumaa' di Bohto Galatia. Hao mai di kodi' Paulus, mesaä' rasulna Puang Yesus Kristus. Mendahiä' rasul tadia aka' pantuhona hupatau, tadia toi hupatau ang mangngängkä'ä', ampo' Puang Yesus Kristus untuhoä' anna Ambeta Puang Alataala ang puha umpatuho sumule di hoi' mai di alla'na to mate. Salama' kipalambi' mating ingkännaang solasohommua' to mampetahpa' dinne."
+        },
+        {
+          "verse_number": 2,
+          "text": "(1:1)"
+        },
+        {
+          "verse_number": 3,
+          "text": "Ke la malai Puang Alataala Ambetaa' sibaha Dehatanta Puang Yesus Kristus la umbehekoa' anna namana' kamasahkeang sibaha kamasannangang."
+        },
+        {
+          "verse_number": 4,
+          "text": "Puang Yesus Kristusmitoo ang puha umpebeaing Kalaena dipatei anna malai nasulängngiingkea' di hao mai di dosanta anna nalahpa'ingkea' di hao mai di kakuasaanna inde lino ang punno kakarakeang. Napanoa aka' situhu' pangngelo'na Ambeta Puang Alataala ang tapenombai."
+        },
+        {
+          "verse_number": 5,
+          "text": "Dipudi anna dipakäyyäng Puang Alataala lambi' sapano-panona. Aming."
+        },
+        {
+          "verse_number": 6,
+          "text": "Kukapusa'ikoa' pole'. Puhamokoa' natambai Puang Alataala mendahi petauanna aka' mana' pa'kalemunna Kristus. Dahi akana maromi'rakoa' dio umpengkebo'i anna maokoa' untuhu'i yato kaheba senga' ang nasangai hupatau \"Kaheba Mapia\"?"
+        },
+        {
+          "verse_number": 7,
+          "text": "Setonganna dai aha Kaheba Mapia senga' sehalinna yato ang puha kipakuhuingkoa'. Ampo' nasuhung anna umpanoaia', aka' aha yato tau umbulitu' inahammu, umputa'-puta' sala anna umbala'i bahtuanna Kaheba Mapia didiona Kristus."
+        },
+        {
+          "verse_number": 8,
+          "text": "Ampo' menna-menna umpepakahebaing \"Kaheba Mapia\" senga' sehalinna yato Kaheba Mapia ang puha kipakahebaiingkoa', ya' la napahoai petahungkung Puang Alataala yaling di allo katämpä'anna lino! Moi kami' ke umbahaang kaheba senga' bahtu' malaeka'raka yaho mai di suruka, tontommi la napahoai asang petahungkunna Puang Alataala!"
+        },
+        {
+          "verse_number": 9,
+          "text": "La kusulei bou yato ang puha kutula'ingkoa' kuoatee: menna-menna umpepakahebaing \"Kaheba Mapia\" senga' sehalinna yato ang puha untahimboa', Puang Alataala la mantahungkung yaling di allo katämpä'anna lino!"
+        },
+        {
+          "verse_number": 10,
+          "text": "La unsangarakaa'to ke ma'kara noaä' la kupemitai kuoatee, \"Anna malaä' napudi hupatau?\" Ampo' daete' noa. Aka' sanghupa supu ang kupemitai, dianto la napudiä' Puang Alataala. Aka' ponna ke la kupeängngi lalang umba la kupanoa anna malai nakärä'iä' hupatau, ya' tadiarä'te' disanga sabua'na Kristus."
+        },
+        {
+          "verse_number": 11,
+          "text": "Oa' ingkänna solasohongku, pahallua' ungnginsang ungngoatee inde Kaheba Mapia kupepakahebaing tadia di hao mai di hupatau."
+        },
+        {
+          "verse_number": 12,
+          "text": "Aka' dai kutahimbo yato Kaheba Mapia di hao mai di hupatau, bahtu' la dioarakatee aha mesa tau umpakuhuä'. Ampo' Kalaena Puang Yesus Kristus ang mampalosaiä' ihsinna yato Kaheba Mapia."
+        },
+        {
+          "verse_number": 13,
+          "text": "Inang ahangnga' unghingngi didiona pembabeku dolu yato anna untuhu'ikä' peada'anna to Yahudi. Yato dai aha nasinnoaing kamasahhu'angku pano di petauanna Puang Alataala ang umpetahpa' Puang Yesus Kristus. Si kupeäng lalang umba la kupanoa anna malai pa'da yato to Sahani."
+        },
+        {
+          "verse_number": 14,
+          "text": "Anna yaling umpembabeing peada'anna to Yahudi, mai'di para dahingku to Yahudi kupellondoi. Anna untuhu'i si'da-si'daä' ada' kabiasaanna peneneangku, lambi' ke pahallui moi la kupomate."
+        },
+        {
+          "verse_number": 15,
+          "text": "Moinnakato noa pembabeku dolu, ampo' inang puhamä' natuho Puang Alataala naonge yalingkä' di kompenna indoku. Anna aka' mana' pa'kalemunna lambi' natambaiä' la mendahi pesuona."
+        },
+        {
+          "verse_number": 16,
+          "text": "Situhu' pangngelo'na Puang Alataala puhang umpepainsangnging Änä'na pano di kalaeku anna malai yato Kaheba Mapia didiona Änä'na kupepakahebaing pano di tau ang tadia to Yahudi. Donetoo inang dä' aha umpeäng tau moi poro la mesa ang la mala mampakuhuä' didiona kasahaniang."
+        },
+        {
+          "verse_number": 17,
+          "text": "Datouä' aha dai' di Yerusalem umpellambi'i yatoii ang dolu nei' anna kodi' mendahi rasul, ampo' tahpa lupanoä' di Bohto Arab. Ya' di haonto kuongei mengkalao sumule pano di Bohto Mahoa' Damsyik."
+        },
+        {
+          "verse_number": 18,
+          "text": "Tallurang pahiamanna mane le'ba'ä' pole' dai' di Yerusalem umpengnginsangngi Petrus. Ampo' supung sampulo lima benginna sibahaang yaho."
+        },
+        {
+          "verse_number": 19,
+          "text": "Anna dä' aha silambi' rasul senga' sehalinna Yakobus siullu'na Puang Yesus Dehatanta."
+        },
+        {
+          "verse_number": 20,
+          "text": "Inde tula'ku Puang Alataala unsa'biii, dai kutula' kale ampo' kara tahpa'."
+        },
+        {
+          "verse_number": 21,
+          "text": "Puhai yatoo, ya' le'ba'mä' pano di Poropensi Siria anna Kilikia."
+        },
+        {
+          "verse_number": 22,
+          "text": "Donetoo ingkänna jumaa'na Kristus di hao di Poropensi Yudea dakä' nainsang aka' dakang aha silambi'."
+        },
+        {
+          "verse_number": 23,
+          "text": "Supung si napelele ang natula' tau naoatee, \"Yato ang si undahhaingkea' dolu, ya' diang dinoa umpepakahebaing kapampetahpa'ang yaling di Puang Yesus Kristus, yato kapampetahpa'ang dianto ang pemala napa'dai dolu.\""
+        },
+        {
+          "verse_number": 24,
+          "text": "Lambi' sika umpamatande sanganna Puang Alataala aka' nahingngi yato kaha-kaha ang dahi pano di kalaeku."
+        }
+      ]
+    },
+    {
+      "chapter_number": 2,
+      "source_url": "https://alkitab.mobi/aralle/Gal/2",
+      "verses": [
+        {
+          "verse_number": 1,
+          "text": "Sampulo uhpa'i pahiamanna, ya' le'ba' bumä' dai' di Yerusalem sibahaang ta Barnabas anna kubahai toe' ta Titus."
+        },
+        {
+          "verse_number": 2,
+          "text": "Le'ba'ä' dai' di Yerusalem donetoo aka' inang napalosaiä' Puang Alataala naoatee, \"La dai'o di Yerusalem.\" Lambi'ang dai', ya' ma'himpummang, ampo' supung pebulle ada' yaho ang kisibahaing ma'himpung. Ya' kutula'ming didiona yato pepakuhungku ang si kupakahebaing pano di tau ang tadia to Yahudi. Kutula'ing supu pano di pebulle ada' aka' mahea'ä' labu' arang yato pengkähängangku, aka' ke hapang dai naakui yato pebulle ada' yaho, ya' la labu' kale ingkänna yatoo."
+        },
+        {
+          "verse_number": 3,
+          "text": "Ampo' katämpä'anna dasiae' labu' aka' yato Titus ang mamposolaiä', moinnakato mesa to Yunani ampo' dasiae' dipahsa la untuhu'i kabiasaanna to Yahudi motille."
+        },
+        {
+          "verse_number": 4,
+          "text": "Inang aha sangngaka-sangngaka tau ang mangngoatee, \"Pahallu tau ditille.\" Ang ma'tula' noa yatoo si mentama mahta-mahta di kakalebuanta boheng solata anna memata-mataii yaling di alla'-alla'taa'. Napanoa anna malai nainsang aka ang si tababe ang dai tisangke' yaling di ada' kabiasaanna to Yahudi aka' mesamingkea' kita' Kristus Yesus. Nasuhung napanoa, aka' umpeäng lalang anna malai napatisangke' toingkea' kita' pano di ingkänna pahenta yaling di peada'anna to Yahudi, sihapang sabua' ang dai beba'."
+        },
+        {
+          "verse_number": 5,
+          "text": "Ampo' moi poro sai'di' dai kitahimbo yato tula'na, aka' kidakai kamarohoanna yato Kaheba Mapia anna malai tontong lolo noa anna kekuna pano di kalaemua'."
+        },
+        {
+          "verse_number": 6,
+          "text": "Anna yato pebulle ada' yaho di Yerusalem, ang disangai to dipakeangka' donetoo, dang aha unsitelängngi yato pepakuhungku. (Aka' di kodi'na kodi' dai aha alla'na kusa'ding to dipakeangka' anna tau biasa. Aka' Puang Alataala daine' mampasise'la-se'la.)"
+        },
+        {
+          "verse_number": 7,
+          "text": "Dai aha aka ang nahängngängngiing pepakuhungku, ampo' nainsammi anna nakaleso naoatee kodi' nahannuang Puang Alataala umpepakahebaing Kaheba Mapia pano di tau ang tadia to Yahudi umba noa unghannuang Petrus umpepakahebaing Kaheba Mapia pano di to Yahudi."
+        },
+        {
+          "verse_number": 8,
+          "text": "Aka' Puang Alataala umbea kamatohoang pano di Petrus mendahi rasulna Puang Yesus pano di to Yahudi, anna kodi'-kodi' nabeaä' kamatohoang mendahi rasulna Puang Yesus pano di tau ang tadia to Yahudi."
+        },
+        {
+          "verse_number": 9,
+          "text": "Dahi naakui Yakobus, Petrus, anna Yohanes, yato to diangka' ahhi matoto'na di ingkänna to mampetahpa', naoatee, \"Inang dimana' Paulus pengkähängang yatoo.\" Lambi' sika nasalama'iang, sibahaang ta Barnabas, mendahi tanda kasikenteangki'. Mane sipahtuyu-tuyuang lambi' kibohtu kioatee, \"Kodi' sibaha Barnabas la mengkähängngang pano di tau ang tadia to Yahudi, anna Yakobus sibaha Petrus anna Yohanes la mengkähäng pano di to Yahudi.\""
+        },
+        {
+          "verse_number": 10,
+          "text": "Supung mesa ang napalau naoatee, \"La si umpayaling loloa' di inahammu kapahalluanna to pemase-mase ang yaling di alla'-alla'ki'.\" Anna setonganna dianto mesa toe' ang kukärä'i si'da-si'da la kupembabeing."
+        },
+        {
+          "verse_number": 11,
+          "text": "Tahpana sulei ta Petrus napellambi'iä' di hao di Antiokhia, ya' dä' mahea' kusalla di olona tau mai'di aka' sala pembabena."
+        },
+        {
+          "verse_number": 12,
+          "text": "Dolu si mandeke' sibaha to mampetahpa' ang tadia to Yahudi. Ampo' tahpana sule sangngaka-sangngaka solana Yakobus yaho mai di Yerusalem, ya' umpelleing tau ang tadia to Yahudi anna dang naaku sibaha mande aka' mahea' pano yato di to Yahudi ang si mangngoatee, \"Pahallu tau ditille asang.\""
+        },
+        {
+          "verse_number": 13,
+          "text": "Anna noa sia tunne' to Yahudi senga' ang mampetahpa'mi: sisenga' tula'na anna senga' di inahanna sinnoa Petrus, datoi naaku mande sibaha tau ang tadia to Yahudi lambi' umpasähsä' toe' Barnabas aka' kapola-polaang."
+        },
+        {
+          "verse_number": 14,
+          "text": "Tahpana sika kuita dang membabe situhu' yato pepakuhu maroho ang talambi' yaling di Kaheba Mapia, ya' kupakalesoming pano di ta Petrus di hao di olona tau mai'di kuoatee, \"Dio-dio mesao to Yahudi ampo' tuhoo noa ang tadia to Yahudi ang si untuhu'i pembabena tau ang tadia to Yahudi. Dahi, akana palla'rako dio la umpahsa to mampetahpa' ang tadia to Yahudi untuhu'i pembabena to Yahudi?\""
+        },
+        {
+          "verse_number": 15,
+          "text": "Di kami'na kami' naonge anna dipadahiang inang to Yahudiang, tadiaang tau senga', bahtu' dioatee 'to madosa.'"
+        },
+        {
+          "verse_number": 16,
+          "text": "Ampo' moinnakato noa, kiinsang kioatee dai aha moi poro la mesa tau napamaroho Puang Alataala aka' untuhu'i Atohanna Musa. Ampo' supung mala mepamaroho Puang Alataala ke mampetahpa'i tau pano di Puang Yesus Kristus. Dahi mampetahpa'ang kami' pano di Kristus Yesus anna malaang napamaroho Puang Alataala aka' yato kapampetahpa'angki', tadia aka' untuhu'iang Atohanna Musa. Aka' dai aha moi poro la mesa tau dipamaroho aka' untuhu'i Atohanna Musa."
+        },
+        {
+          "verse_number": 17,
+          "text": "Mane ahai indee, ponna kami' to Yahudi pemalaang napamaroho Puang Alataala ungngolai kasikenteangki' Kristus, ampo' naita siamang tau dai untuhu'i ingkänna Atohanna Musa, noa yato tau ang tadia to Yahudi (ang si dioaintee 'to madosa'), ya' la malaraka dioatee Kristus umbahaang pano di dosa? Maleso anna daete' noa yatoo!"
+        },
+        {
+          "verse_number": 18,
+          "text": "Ponna ke la sumuleä' untuhu'i yato Atohanna Musa ang puha kupellei, sihapang puha kutalei mane la kupake'de'i sumule, ya' dianto disanga maleso anna madosaä'."
+        },
+        {
+          "verse_number": 19,
+          "text": "Aka' ungngolai ihsinna Atohanna Musa ang kupellaya'i, kuinsammi kuoatee dai kubela kutuhu'i lolo. Dahi bohtung kasikenteangku Atohanna Musa anna malaä' untuhu'i pangngelo'na Puang Alataala. Naonge dipateii Kristus yaho di kayu sitambeng, naangka' Puang Alataala mate touä' ko sibaha Kristus."
+        },
+        {
+          "verse_number": 20,
+          "text": "Anna tadiang kalaeku kale ang tuho dinoa, ampo' Kristusmi tuho yaling di kalaeku. Inde katuhoangku dinoa kuolai sibaha punno kapampetahpa'ang pano di Änä'na Puang Alataala ang mangkalemuiä' anna puha umbeho Kalaena nabala'iä' dipatei."
+        },
+        {
+          "verse_number": 21,
+          "text": "Dä' unsumbäng mana' pa'kalemunna Puang Alataala. Aka' ponna dioatee Puang Alataala umpamaroho hupatau aka' umpembabeing ingkänna Atohanna Musa, ya' labu' kaleete' disanga yato kamateanna Kristus, aka' sule Kristus dipatei anna malai mapia sumule kasikenteanna hupatau anna Puang Alataala."
+        }
+      ]
+    },
+    {
+      "chapter_number": 3,
+      "source_url": "https://alkitab.mobi/aralle/Gal/3",
+      "verses": [
+        {
+          "verse_number": 1,
+          "text": "Ingkämmua' inde to Galatia, to maho si'da-si'dakoa'! Akana noarakoa' dio? Menna umpakuhukoa' yato katomahoang? Kusanga halimokoa' kupakalesoing didiona kalemba'anna kamateanna Puang Yesus Kristus yaho di kayu sitambeng."
+        },
+        {
+          "verse_number": 2,
+          "text": "Aha kaha-kaha ang pahallu si'da-si'da la kukutanaiingkoa': unsangarakaa' dio napentamaimokoa' Inaha Maserona Puang Alataala aka' untuhu'imokoa' Atohanna Musa? Ampo' daete' noa, aka' nasuhung napentamaikoa' aka' unghingngikoa' anna umpetahpa'a' yato Kaheba Mapia."
+        },
+        {
+          "verse_number": 3,
+          "text": "Akana noa sakaliia' katomahoammu? Aka' naonge anna uhunai mampetahpa'koa', pengkähänganna Inaha Masero umbakahui katuhoammua'. Ampo' akana pemalarakoa' dio la umpalempäng senga' katuhoammu? La malaraka pembabe kalaemu umpasundungkoa' di olona Puang Alataala?"
+        },
+        {
+          "verse_number": 4,
+          "text": "Darakato aha kunanna yato ang puhaa' ungngolai? Ampo' dai aha nalambi' pihki'ku la malaa' ungngoatee, \"Dai aha kunanna.\""
+        },
+        {
+          "verse_number": 5,
+          "text": "Unsangarakaa' dio nabeakoa' Puang Alataala Inaha Maserona anna napadahii tanda ang mepusa'-pusa' yaling di alla'-alla'mua' aka' untuhu'ikoa' Atohanna Musa? Daete' noa yatoo, ampo' nasuhung napanoa aka' umpehingngiikoa' anna umpetahpa' yato Kaheba Mapia."
+        },
+        {
+          "verse_number": 6,
+          "text": "Noa sia tunne' Abraham dolu situhu' ang tiuki' yaling di Suha' Masero naoatee, \"Aka' umpetahpa' Puang Alataala Abraham lambi' naangka' to maroho.\""
+        },
+        {
+          "verse_number": 7,
+          "text": "Dahi pahallua' ungnginsang ungngoatee tau ang mampetahpa' dai' di Puang Alataala, ya' dianto peänä'anna Abraham ang setonganna."
+        },
+        {
+          "verse_number": 8,
+          "text": "Tiuki' lohpo'mi yaling di Suha' Masero naoatee la napemarohoing Puang Alataala tau ang tadia to Yahudi aka' kapampetahpa'anna. Yato Kaheba Mapia puhang napepainsang lohpo'ing yaling di bahtakaranna pano di Abraham naoatee, \"Dionto napolalang la dibehe ingkänna ihsi bohto yaling di lino.\""
+        },
+        {
+          "verse_number": 9,
+          "text": "Dahi ingkänna hupatau ang mampetahpa' la dibehe umba noa dibehe Abraham ang mampetahpa'."
+        },
+        {
+          "verse_number": 10,
+          "text": "Ampo' menna-menna manghannuang la dipemarohoing aka' untuhu'i Atohanna Musa, ya' tau yatoo tuho yaling di petändo. Sinnoa ang puha tiuki' yaling di Suha' Masero naoatee, \"Menna-menna dai umpembabe asangnging ingkänna yato ang tiuki' yaling di Atohanna Musa, ingkänna yato tau titändo.\""
+        },
+        {
+          "verse_number": 11,
+          "text": "Dahi maleso dioatee dai aha moi poro la mesa tau la napemarohoing Puang Alataala aka' umpembabeing Atohanna Musa. Aka' yato inang tiuki' yaling di Suha' Masero naoatee, \"Tau ang naangka' maroho Puang Alataala la ullolongang katuhoang mapia aka' kapampetahpa'anna.\""
+        },
+        {
+          "verse_number": 12,
+          "text": "Yato Atohanna Musa dai sikente kapampetahpa'ang. Aka' tiuki' yaling di Suha' Masero naoatee, \"Menna-menna pemala la ullolongang katuhoang mapia ungngolai Atohanna Musa, tau yatoo la pahallu untuhu'i asang ingkänna pahentana.\""
+        },
+        {
+          "verse_number": 13,
+          "text": "Moinnakato sihatang la titändoingkea', ampo' Kristus umbala'iingkea' lambi' malaingkea' kita' lahpa' di hao mai yato di petändo. Aka' tiuki' yaling di Suha' Masero naoatee, \"Menna-menna mate ditoke' yaho di kayu, tau yatoo nahoa petändo.\""
+        },
+        {
+          "verse_number": 14,
+          "text": "Nabala'iingkea' anna malai yato pebehe ang puha nadandi Puang Alataala pano di Abraham la dibea toe' pano di tau ang tadia to Yahudi aka' pengkähänganna Puang Yesus Kristus. Anna la untahimboingkea' Inaha Masero ang puha nadandi Puang Alataala ke umpetahpa'ingkea' pano."
+        },
+        {
+          "verse_number": 15,
+          "text": "Oa' ingkämmu solasohongku, mapia ke ungngalaiä' mesa pohapangang ang si dibabe allo-allo: Ponna aha tau umpaaha pa'dandiang anna naakuii tempatomali yato pa'dandiang, ya' dang aha moi poro la mesa tau la mala umpasala, bahtu'raka la nahängngängngi."
+        },
+        {
+          "verse_number": 16,
+          "text": "Noa tunto nei' ingkänna pa'dandianna Puang Alataala ang puha nadandiing pano di Abraham lambi' peänä'anna. (Yaling di Suha' Masero dai aha naoatee pano di Abraham, \"ingkänna peänä'ammu,\" bahtuanna ingkänna peänä'anna Abraham. Ampo' naoate supu: \"peänä'ammu,\" bahtuanna supung mesa peänä'anna Abraham ang nahoa yato pa'dandiang, dianto Kristus)."
+        },
+        {
+          "verse_number": 17,
+          "text": "Dahi, noa inde bahtuanna yato tula'ku langngena': yatoo pa'dandianna Puang Alataala pano di Abraham inang ahang. Uhpa' atu' tallumpulorang pahiamanna puhanna yato pa'dandiang, mane nabea toine' Puang Alataala Atohanna Musa pano di hupatau. Dahi dai aha lalanna Atohanna Musa la mala umpasala bahtu' dioatee umpa'dai yato pa'dandiang."
+        },
+        {
+          "verse_number": 18,
+          "text": "Aka' ponna hapanganna ke la mangki'ke' tau la untuhu'i Atohanna Musa mane malai tau ullambi' yato mana'na Puang Alataala, ya' dianto disanga tadiaete' pa'dandianna Puang Alataala ang napolalang tau la dibea yato mana'. Ampo' pa'dandiannarante' Puang Alataala pano di Abraham lambi' nabea situhu' pa'kalemunna."
+        },
+        {
+          "verse_number": 19,
+          "text": "Dahi ponna noa, ya' akae' kunanna dipaaha yato Atohanna Musa? Yato Atohanna Musa dihängngängngiing anna malai umpakaleso bahtu' umpalanda'ing kasalaanna hupatau ponna ke untehkaii pangngelo'na Puang Alataala. Atohanna Musa supung dipake lambi' kasuleanna yato mesa peänä'anna Abraham ang puha nadandi Puang Alataala. Mai'di malaeka' umpalambi' yato atohang pano di Musa. Anna dianto ang mendahi to dialla'na ang la mampalambi' pano di hupatau."
+        },
+        {
+          "verse_number": 20,
+          "text": "Maleso anna pahallui la aha to sisambaliang mane la pahallu toi nei' aha to dialla'. Ampo' naonge anna ma'dandii Puang Alataala pano di Abraham, ya' dai pahallu la aha to dialla' aka' kalaena ang mambohtu."
+        },
+        {
+          "verse_number": 21,
+          "text": "Dahi ponna noa, ya' la sisalaraka Atohanna Musa anna pa'dandianna Puang Alataala? Maleso anna dai! Aka' ponna yato Atohanna Musa dibea anna malai mepatuho, ya' mala tau naangka' maroho Puang Alataala ungngolai yato atohang."
+        },
+        {
+          "verse_number": 22,
+          "text": "Ampo' dai noa, aka' yaling di Suha' Masero aha tiuki' naoatee, \"Ingkänna hupatau naposabua' kakuasaanna dosa.\" Dahi supung ungngolai kapampetahpa'ang pano di Puang Yesus Kristus anna malai talambi' yato ang puha nadandiing Puang Alataala."
+        },
+        {
+          "verse_number": 23,
+          "text": "Naonge anna dake' lambi' tempona tau mampetahpa' pano di Puang Yesus Kristus, ya' tisangke' si'da-si'dakingkea' pano di Atohanna Musa. Sihapangngingkea' to dikuhung aka' nasangke'kingkea' ingkänna yato pahenta. Anna noa lolo lambi' napatandaang Puang Alataala yato kapampetahpa'ang pano di Puang Yesus Kristus."
+        },
+        {
+          "verse_number": 24,
+          "text": "Ampo' temponang pole' dinoa hupatau mala mampetahpa' pano, dahi damingkea' la napatehte lolo Atohanna Musa. Dahi yato Atohanna Musa napatehte kaleingkea' supu lambi' kasuleanna Kristus, anna malaingkea' mampetahpa' pano lambi' napemarohoingkea' Puang Alataala."
+        },
+        {
+          "verse_number": 25,
+          "text": "(3:24)"
+        },
+        {
+          "verse_number": 26,
+          "text": "Dahi aka' kapampetahpa'ammua' pano di Kristus Yesus lambi' mendahi asammokoa' änä'na Puang Alataala."
+        },
+        {
+          "verse_number": 27,
+          "text": "Aka' ingkännakoa' ang puhang ditero' mendahi to pentindo'na Kristus, lambi' yalimmia' di kalaemu ingkänna pengkerona."
+        },
+        {
+          "verse_number": 28,
+          "text": "Dahi dang pole' dipasisenga'-senga'ang hupatau ke yalimmi di Kristus Yesus, to Yahudi anna tau ang tadia to Yahudi, sabua' anna ang tadia sabua', muane anna bahine, aka' para-para asammi yaling."
+        },
+        {
+          "verse_number": 29,
+          "text": "Dahi aka' to pentindo'namokoa' Kristus, ya' diongnga'too peänä'anna Abraham ang la namana' Puang Alataala yato ang puha nadandi."
+        }
+      ]
+    },
+    {
+      "chapter_number": 4,
+      "source_url": "https://alkitab.mobi/aralle/Gal/4",
+      "verses": [
+        {
+          "verse_number": 1,
+          "text": "Inde tula'ku langngena' la ungngalaä' mesa pohapangang: mesa änä'-änä' ang namana' kulle ambena dake' mala ungkuasai yato kullena aka' saohko'ke'. Moinnakatoo anna naampui asammi yato kulle, ampo' sihapangke' sabua' aka' nakuasaike' tau senga'."
+        },
+        {
+          "verse_number": 2,
+          "text": "Aka' aha tau senga' ang mangnguhu'ing kapahalluanna anna undakai yato kullena lambi' di tempona ang puha napama'tantu ambena."
+        },
+        {
+          "verse_number": 3,
+          "text": "Noa tunto nei' pano di kita'a' naonge anna dakingkea' mampetahpa', sihapangngingkea' yato änä'-änä' saohko' aka' nakuasaikingkea' ingkänna kakuasaanna inde lino."
+        },
+        {
+          "verse_number": 4,
+          "text": "Ampo' tahpana lambi' yato tempo ang puha napama'tantu Puang Alataala, ya' unsuong Änä'na mentama inde di lino. Yato Änä'na nakeänä'ing mesa bahine anna mendahii to Yahudi ang nakuasai Atohanna Musa,"
+        },
+        {
+          "verse_number": 5,
+          "text": "anna malai unsulängngi tau ang nakuasai Atohanna Musa, lambi' kami' to Yahudi malaang pole' natahimbo Puang Alataala mendahi änä'na."
+        },
+        {
+          "verse_number": 6,
+          "text": "Aka' änä'na tumokoa' dio Puang Alataala, lambi' unsuong Inaha Maserona Änä'na tohho yaling di kalaetaa'. Yato Inaha Masero mengkähäng yaling di inahanta lambi' metambaingkea' taoatee, \"O Papa', O Ambeku!\""
+        },
+        {
+          "verse_number": 7,
+          "text": "Dahi dinoa tadiamokoa' sabua', ampo' mendahimokoa' änä'na Puang Alataala. Aka' änä'namokoa' Puang Alataala, dahi sihatang tungnga' dio untahimbo yato pemana'na ang puha napatokaing pano di tau ang mendahi änä'na."
+        },
+        {
+          "verse_number": 8,
+          "text": "Dolunna dakoa' ungnginsang Puang Alataala lambi' nakuasaikoa' yato ang disanga dehata ampo' setonganna tadia Dehata si'da."
+        },
+        {
+          "verse_number": 9,
+          "text": "Ampo' dinoa ungnginsammokoa' Puang Alataala. (Setonganna mapia puha ke dioaitee nainsammokoa' Puang Alataala.) Dahi akana pemala burakoa' dio la sumule pano di kakuasaanna lino ang dai aha kamatohoanna anna ang tala mala dihannuang la medului? Akana pemala burakoa' la naposabua' sumule?"
+        },
+        {
+          "verse_number": 10,
+          "text": "Nasuhung anna kuoaitee pemalakoa' la naposabua' sumule, aka' si untuhu'i ada' kabiasaanna to Yahudi noanna: umpakahoa'koa' allo ma'tantu, bulang ma'tantu anna pahiama ma'tantu."
+        },
+        {
+          "verse_number": 11,
+          "text": "Lambi' mahea'ä' labu' kale arang dako' yato pengkähängangku aka' dioa'."
+        },
+        {
+          "verse_number": 12,
+          "text": "Oa' ingkämmu solasohongku, kupalau si'da-si'da anna umpensinnoaiä' aka' kodi'-kodi' halimä' umpellei yato ada' kabiasaanna to Yahudi, anna dinoa kupensinnoaikoa' ingkämmu ang tadia to Yahudi. Anna dake' aha umbabea' kakarakeang pano di kalaeku naonge anna sibahakingkea'."
+        },
+        {
+          "verse_number": 13,
+          "text": "Ungkalehaike'a' naonge anna kupahandu'i kupainsangngikoa' yato Kaheba Mapia, dianto naonge anna makorongngä'."
+        },
+        {
+          "verse_number": 14,
+          "text": "Donetoo yato korongku nasuhsaikoa' lambi' mendahi pesändä' käyyäng pano di kalaemua'. Moinnakato noa yatoo, ampo' dä' ungkahi'di'a'. Ampo' diare' untahimboä' sihapang untahimbo mesa malaeka' yaho mai di Puang Alataala bahtu' dioatee sihapangkoa' untahimbo Kalaena Kristus Yesus."
+        },
+        {
+          "verse_number": 15,
+          "text": "Donetoo masannang si'da-si'dakoa'. Ampo' akana dai mala tontong yato kamasannangammua' lambi' dinoa? Kuinsang si'da-si'da kuoatee donetoo tandana ungkalemuiä', ya' umbai moi la untähsu'ia' matammu, la umbea tukä'."
+        },
+        {
+          "verse_number": 16,
+          "text": "Ya' la unsangairakakä' dinoa balimmua' aka' kutula'ingkoa' yato katahpa'ang?"
+        },
+        {
+          "verse_number": 17,
+          "text": "Pano yato di tau senga' ang umparende ihsinna Kaheba Mapia, napeäng si'da-si'da lalang anna malai umpempolaia'. Ampo' dai mapia pahtuyunna, aka' pemala la umbohtui kasikenteantaa' anna malai untuhu'ia' sibaha sangkalebu inaha."
+        },
+        {
+          "verse_number": 18,
+          "text": "Inang mapia ke tapengkabela-belaii membabe mapia. Ampo' pahallu la umpanoa loloa', daa supung ke yalingngä' di alla'-alla'mu."
+        },
+        {
+          "verse_number": 19,
+          "text": "Oa' ingkämmu änä'ku ang kukalemui, dinoa masuhsa bouä' kupenanahaingkoa', sihapangngä' mesa bahine ang lella' mansa'ding. Anna yato kamasuhsaang la tontong kusa'ding lambi' mengnguhaka' manahpa pengkerona Kristus yaling di kalaemua'."
+        },
+        {
+          "verse_number": 20,
+          "text": "Pemala si'da-si'daä' la yaling di alla'-alla'mua' dinoa, anna malai kuparende buke' tula' makahha'ku mating aka' dakaleng pole' kuinsang aka buke' ang la mala kubabeingkoa'."
+        },
+        {
+          "verse_number": 21,
+          "text": "Oa' ingkämmua' ang pemala nakuasai Atohanna Musa, aha ang la kukutanaiingkoa': Daia' disanga umpebahtuang yato aka ang tiuki' yaling di Atohanna Musa?"
+        },
+        {
+          "verse_number": 22,
+          "text": "Yaling yatoo tiuki' naoatee aha derua änä'na Abraham: yatoo mesa änä'na nasibalii sabua'na ang disanga Hagar anna yato mesa nasibalii ang inang bahinena disanga Sara, tadia sabua'na."
+        },
+        {
+          "verse_number": 23,
+          "text": "Yato bahine ang naposabua' ungkeänä'ing mesa änä' situhu' pahtuyunna hupatau. Ampo' yato bahinena ang tadia sabua' ungkeänä'ing mesa änä' situhu' pa'dandianna Puang Alataala."
+        },
+        {
+          "verse_number": 24,
+          "text": "Dahi yato derua bahine mala diala pohapangang. Aka' sika mala dipasihapang pa'dandianna Puang Alataala pano di hupatau. Hagar dianto sihapang yato pa'dandiang ang puha dibea pano di Musa yaho di Tanete Sinai. Umba noa ingkänna änä'na Hagar inang di hoi' di pala'na la dipadahi sabua', noa tunto nei' ingkänna tau ang untuhu'i yato pa'dandiang ang dibea pano di Musa aka' napatisangke' Atohanna Musa."
+        },
+        {
+          "verse_number": 25,
+          "text": "Dahi yato Hagar dipasihapang Tanete Sinai di hao di Bohto Arab. Anna dipasihapang toe' Bohto Mahoa' Yerusalem dinoa aka' ihsinna Yerusalem tuho sihapang sabua' aka' naposabua' Atohanna Musa."
+        },
+        {
+          "verse_number": 26,
+          "text": "Ampo' yato bahine ang tadia sabua' sihapang nei' Yerusalem Bakahu yaho di suruka. Anna dianto ang tapoindo aka' beba'mingkea', damingkea' naposabua' Atohanna Musa."
+        },
+        {
+          "verse_number": 27,
+          "text": "Aka' yaling di Suha' Masero aha tiuki' naoatee, \"O bahine ang tamänäng, la kahsio anna mahasa inahammu; anna la mekohao mahasa inahammu, dio ang dake' aha unsa'ding kamapi'di'ang keänä'; aka' bahine ang dake' aha keänä' anna ang napellei sängkä muanena, la mai'di puha nei' änä'na andana yato bahine ang tohho sibaha muanena.\""
+        },
+        {
+          "verse_number": 28,
+          "text": "Dahi sinnoa Ishak änä'na Sara ang dipadahi situhu' pa'dandianna Puang Alataala pano di Abraham, ya' noa toukoa' dio ingkämmua' solasohongku, änä'namokoa' Puang Alataala aka' situhu' pa'dandianna."
+        },
+        {
+          "verse_number": 29,
+          "text": "Donetoo yato Ishak, ang dipadahi situhu' pengkähänganna Inaha Masero, nadahha yato Ismael, änä' ang dipadahi situhu' pahtuyunna hupatau. Noa tunto nei' dinoa, tau ang napentamai Inaha Masero nadahha yato ang si unghannuang Atohanna Musa."
+        },
+        {
+          "verse_number": 30,
+          "text": "Ampo' aka yato ang tiuki' yaling di Suha' Masero? Naoatee, \"Hambaii lao yato sabua' bahine sibaha änä'na, aka' yato änä'na ang sabua' daine' la mala untahimbo mana' di hao mai di ambena, aka' yato mana' la dibea asang pano yato di änä' ang nasibalii bahinena ang tadia sabua'.\""
+        },
+        {
+          "verse_number": 31,
+          "text": "Dahi ingkämmua' solasohongku ang mampetahpa', daiingkea' kita' sihapang änä'na sabua' bahine ampo' sihapangngingkea' änä'na bahine ang tadia sabua'."
+        }
+      ]
+    },
+    {
+      "chapter_number": 5,
+      "source_url": "https://alkitab.mobi/aralle/Gal/5",
+      "verses": [
+        {
+          "verse_number": 1,
+          "text": "Dinoa beba'mingkea' aka' nalahpa'mingkea' Kristus. Dahi la pahallua' untokei mahha' yato kabeba'ammu, daumpemalaa' la naposabua' sumule Atohanna Musa."
+        },
+        {
+          "verse_number": 2,
+          "text": "Pehingngii manahpaia' inde tula'ku! Kalaeku Paulus mangngoatee: ponna ungngoaa'tee, \"Pahalluang la ditille situhu' Atohanna Musa,\" ya' dianto disanga dai aha kunanna Kristus pano di kalaemua'."
+        },
+        {
+          "verse_number": 3,
+          "text": "Anna kupakaleha buke' pano di tau ang malau la ditille kuoatee: yato tau pahallu la untuhu'i asang toe' ingkänna Atohanna Musa, tadia supu kapotilleang."
+        },
+        {
+          "verse_number": 4,
+          "text": "Anna ingkämmua' ang pemala la napamaroho Puang Alataala ungngolai untuhu'i Atohanna Musa, ya' dianto disanga umbohtuikoa' kasikenteammu sibaha Kristus anna umpengkebo'ikoa' mana' pa'kalemunna Puang Alataala."
+        },
+        {
+          "verse_number": 5,
+          "text": "Ampo' kami'-kami', aka' petehtena Inaha Masero anna kapampetahpa'angki' pano di Puang Yesus Kristus, lambi' kihannuang anna kipemitai sibaha sangkalebu inaha la napamarohoang Puang Alataala."
+        },
+        {
+          "verse_number": 6,
+          "text": "Aka' ponna ke mesamingkea' sibaha Kristus Yesus, ya' moi tau ditille bahtu' daraka, setonganna sinnoa siang di hao di olona Puang Alataala. Aka' supung ang handang pahallu dianto kapampetahpa'anta pano di Puang Yesus. Anna yato kapampetahpa'anta la tandaang yaling di pa'kalemu pano di paranta hupatau."
+        },
+        {
+          "verse_number": 7,
+          "text": "Dolu silumba-lumba kalekoa' umpembabeing kapampetahpa'ammu. Ampo' dinoa menna ang manghalang-halangngikoa' lambi' damokoa' untuhu'i yato pepaturu ang tahpa'?"
+        },
+        {
+          "verse_number": 8,
+          "text": "Maleso dioatee yato pepakuhunnaii dai sule yaho mai di Puang Alataala ang puha mantambaikoa' mendahi petauanna."
+        },
+        {
+          "verse_number": 9,
+          "text": "Pepakuhunnaii sihapang bibi' roti aka' aha tula' naoatee, \"Sampi'du' bibi' roti mala unsamba mai'di tahpung lambi' membea' ke la dipapiai roti."
+        },
+        {
+          "verse_number": 10,
+          "text": "Moinnakato noa, ampo' aka' kasikenteanta Dehata lambi' kuhannuang kuoatee dasiakoa' la tontong umpehingngii yato tau ang la mampasähsä' lalangkoa'. Anna moi la menna ang la mampabulingnga' pihki'mu dai mala tala nalambi' tahungkunna Dehata."
+        },
+        {
+          "verse_number": 11,
+          "text": "Oa' ingkämmu solasohongku, aha tau ang mangngoatee, \"Paulus mepakuhu naoatee pahallu tau ditille.\" Ampo' ponna ke la tahpa' si'dai kupanoa, maleso anna dä' la nadahha yato to Yahudi. Ampo' suhunna anna keaha'i lambi' nadahhaä', aka' yato ang kupakuhuing, dianto kamateanna Puang Yesus Kristus yaho di kayu sitambeng."
+        },
+        {
+          "verse_number": 12,
+          "text": "Ampo' ne mating tau ang noa ang si umpasähsä' lalangkoa', mapia puhane' ke dai la ditille supu, ampo' bilang la unsasa'i pihsang nei' lao pambahanna!"
+        },
+        {
+          "verse_number": 13,
+          "text": "Oa' ingkämmu solasohongku, halimokoa' natambai Puang Alataala la mendahi to beba'. Ampo' dai la malaa' umpake yato kabeba'ammu membabe ang situhu' sipa' dosanna hupatau. Ampo' diare', la sidulu-duluikoa' mesa anna mesa aka' pa'kalemummua'."
+        },
+        {
+          "verse_number": 14,
+          "text": "Aka' ingkänna ihsinna Atohanna Musa tipungngu' tannung yaling di mesa pahenta naoatee, \"Kalemuio parammu hupatau sinnoa ungkalemui kalaemu.\""
+        },
+        {
+          "verse_number": 15,
+          "text": "Ampo' dakoa' mala siba'di-ba'di sinnoa olo'-olo' ang siande-ande. Aka' ponna sikalla-kalla lolokoa', ya' la dio siangnga' sikarake-rakei."
+        },
+        {
+          "verse_number": 16,
+          "text": "Dahi indee tula'ku noa inde bahtuanna: ingkänna pembabemua' la umpembabeing situhu' pantehtena Inaha Masero. Aka' ponna ke untuhu'i lolongnga', ya' dangnga' la untuhu'i pampemalanna sipa' dosanna hupatau."
+        },
+        {
+          "verse_number": 17,
+          "text": "Aka' pampemalanna sipa' dosanna hupatau umpa'bali pangngelo'na Inaha Maserona Puang Alataala. Anna pangngelo'na Inaha Masero umpa'bali sipa' dosanna hupatau. Dahi indee derua kaha-kaha sipa'bali yaling di inahanna hupatau lambi' dai la mala dipembabeing yato ang pemala la umbabe."
+        },
+        {
+          "verse_number": 18,
+          "text": "Ampo' ponna umbehokoa' kalaemu napatehte Inaha Masero, ya' damokoa' la nakuasai Atohanna Musa."
+        },
+        {
+          "verse_number": 19,
+          "text": "Pembabena hupatau ang untuhu'i sipa' dosanna landa' liu diita, noanna: ungngindä'-indä' pa'bannetauang, ma'pihki' karake, supung untuhu'i aka ang naoa inahanna,"
+        },
+        {
+          "verse_number": 20,
+          "text": "umpenombai kaha-kaha di lino, umpake ihsang-ihsang, sikahiri'-hiri', sikalla-kalla, sikasuehe-ehe, pa'keaha'ang, umpihki' supu kalaena, dai tuho malino sibaha sola bohtona, anna umpakende' kasisähä'-sähä'ang yaling di kamesaang."
+        },
+        {
+          "verse_number": 21,
+          "text": "Noa toe' ma'sihi ate, menu' lambi' malango, liba'-liba' ke ahai kamahoa'ang, anna senga'nake' pembabe karake ang nababe. Pano di pembabe ang noa yatoo kupakaleha boukoa' dinoa sinnoa yato ang halimokoa' kutula'ing dolu kuoatee: Menna-menna si umbabe inde kaha-kaha, inang dai la mangngala taha yaling di Kapahentaanna Puang Alataala."
+        },
+        {
+          "verse_number": 22,
+          "text": "Ampo' pengkähänna Inaha Masero yaling di kalaeta la ungkeboaing pembabe mapia noanna: pa'kalemu, kamasannangang, kamasahkeang, kasa'bara'ang, kamarota'ang, pembabe mapia, mala dipetahpa',"
+        },
+        {
+          "verse_number": 23,
+          "text": "kamalunä'ang inaha, ungkuasai kalae. Dai aha moi poro la mesa pahenta ang ullahang pembabe ang noa yatoo."
+        },
+        {
+          "verse_number": 24,
+          "text": "Anna ingkänna petauanna Kristus Yesus sihapang puha tunne' dipatei yaho di kayu sitambeng sibaha, bahtuanna: dang nakuasai pangngelo' inahanna sibaha pampemala matoho ang sule di hao mai di sipa' dosanna."
+        },
+        {
+          "verse_number": 25,
+          "text": "Dahi, aka' puhamingkea' nabea katuhoang bakahu Inaha Masero, lambi' yaling di ingkänna pembabeta la pahallu untuhu'i petehtena."
+        },
+        {
+          "verse_number": 26,
+          "text": "Daingkea' kita' la mala malängkä' inaha, sipi'di'-pi'di' inaha anna ma'sihi ate pano di solata."
+        }
+      ]
+    },
+    {
+      "chapter_number": 6,
+      "source_url": "https://alkitab.mobi/aralle/Gal/6",
+      "verses": [
+        {
+          "verse_number": 1,
+          "text": "Oa' ingkämmu solasohongku, ponna ullambi' solamu to mampetahpa' umbabe dosa, dioa' ang tuho situhu' petehtena Inaha Masero la umpakalehaa' anna malai sumule pano di lalang kamarohoang. Ampo' la umpakalehaa' sibaha kamalunä'ang inaha anna kasa'bara'ang. Anna la undakaikoa' kalaemu andana bilang diongnga' pemala membabe noa."
+        },
+        {
+          "verse_number": 2,
+          "text": "Anna la sidulu-duluikoa' mesa anna mesa undurung kamasuhsaang. Aka' ponna umpanoaa', ya' untuhu'imokoa'to pahentana Kristus."
+        },
+        {
+          "verse_number": 3,
+          "text": "Ponna aha tau ang unsanga-sanga kalaena anna setonganna dai sihatang, dianto disanga tau yatoo umbulitu' kalaena."
+        },
+        {
+          "verse_number": 4,
+          "text": "Ingkänna tau pahallu umpihki' lolo umba noa pembabena. Aka' ponna mapia, ya' mala napomahasa inaha. Ampo' dai mangki' la napasiita umba noa pembabena anna pembabena tau senga'."
+        },
+        {
+          "verse_number": 5,
+          "text": "Aka' ingkänna tau la pantang toboe' untangkung pembabe kalaena."
+        },
+        {
+          "verse_number": 6,
+          "text": "Menna-menna untahimbong pepakuhunna Bahtakara Dehata la pahallu toe' ungkalehai yato tuangkuhunna, bahtu' dioatee la nabea sambaheang aka-akanna."
+        },
+        {
+          "verse_number": 7,
+          "text": "Daumbulingnga'. Puang Alataala dai mala dipopangngino. Aka' aka ang dipamula, dia sia tunto nei' ang la dipupu boana."
+        },
+        {
+          "verse_number": 8,
+          "text": "Noanna ke membabeingke untuhu'i sipa' dosanta, ya' boana yatoo la ullambi'ingke kamateang, anna ponna ke membabeingke situhu' pangngelo'na Inaha Masero, ya' boana yatoo la ullambi'ingke katuhoang ang lambi' sapano-panona aka' nabeaingkea' Inaha Masero."
+        },
+        {
+          "verse_number": 9,
+          "text": "Dahi daummali'-mali'angngi umbabe kamapiaang. Aka' ponna ke umbabe lolomingke kamapiaang, ya' la aha tempo ang puha dipama'tantu la nalambi' toingkea'ne' boana lupunta."
+        },
+        {
+          "verse_number": 10,
+          "text": "Dahi akinna ahake' tempo, ya' la pahallua' tapake yato tempo umbabe kamapiaang pano di paranta hupatau, la'bi-la'binna pano di solasohonta to mampetahpa'."
+        },
+        {
+          "verse_number": 11,
+          "text": "Ita manahpaia' inde pangnguki'ku sikäyyäng, aka' kalaekung pole' ang mangnguki'."
+        },
+        {
+          "verse_number": 12,
+          "text": "Yato ang pemala umpahsakoa' ditille mesa supu suhunna anna sika napanoai. Dianto aka' mahea' la nadahha to Yahudi, aka' keaha' ke dioaitee supung mala tau dipemarohoing ke umpetahpa'i tau Kristus ang puha mate yaho di kayu sitambeng."
+        },
+        {
+          "verse_number": 13,
+          "text": "Anna yato tau ang noa moinnakato untuhu'i ada' didiona tille, ampo' dasiang untuhu'i asang ingkänna ihsinna Atohanna Musa. Ampo' napeäng lalanna anna ditillekoa' anna malai aha napolalang ungngangka'-angka' kalaena ke untuhu'ia' pepakuhunna."
+        },
+        {
+          "verse_number": 14,
+          "text": "Ampo' di kodi'na koo tantu anna dai kuaku la ungngangka'-angka' kalaeku aka' kaha-kaha ang senga' sehalinna yato ang puha nababe Dehatanta Puang Yesus Kristus yaho di kayu sitambeng. Dianto ang la kupa'käyyängngi. Naonge dipatei Puang Yesus Kristus yaho di kayu sitambeng, sihapang mate touä' kodi' sibaha Puang Yesus Kristus lambi' dang la kupayaling di inaha yato ang si nakärä'i tau ang taungnginsang Puang Yesus Kristus; anna sika noa toi nei' damä' aha napayaling di inahannaii."
+        },
+        {
+          "verse_number": 15,
+          "text": "Aka' ditilleraka tau bahtu' daraka, ya' dai maaka, aka' setonganna tontong sinnoa siang di olona Puang Alataala. Ang handang pahallu supung ke mendahing tau to bakahu ang senga'mi."
+        },
+        {
+          "verse_number": 16,
+          "text": "Anna ingkänna tau ang untuhu'i inde pepakuhu la namana' Puang Alataala kamasannangang anna pa'kalemu. Ingkänna yato tau sipäto' disanga to Israel si'da-si'da bahtu' dioatee petauang ang napillei Puang Alataala."
+        },
+        {
+          "verse_number": 17,
+          "text": "Mane ahai kuoatee: dang aha tau moi poro la mesa ang la mala umpamasuhsa bouä'. Aka' mai'ding bila' pano di kalaeku tandana to pentindo'naä' Puang Yesus."
+        },
+        {
+          "verse_number": 18,
+          "text": "Oa' ingkämmu solasohongku, ke la malai Dehatanta Puang Yesus Kristus umbehekoa' para-para. Aming."
+        }
+      ]
+    }
+  ]
+}

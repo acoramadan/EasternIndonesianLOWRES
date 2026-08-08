@@ -1,0 +1,638 @@
+{
+  "book_id": "GAL",
+  "book_name": "Galatians",
+  "chapters": [
+    {
+      "chapter_number": 1,
+      "source_url": "https://alkitab.mobi/gorontalo/Gal/1",
+      "verses": [
+        {
+          "verse_number": 1,
+          "text": "Salamu lonto olau te Pawulus ta lowali rasul sababu bilintaiyo li Isa Almasih wawu bilintao Allahuta'ala ti Papanto ta ma lopotumulayi oli Isa lonto kuburu. Diyaluwo ngota mao tawu to duniya boti ta loturungi olau lowali rasul."
+        },
+        {
+          "verse_number": 2,
+          "text": "Salamu olo lonto nga'amila mongowutata ngoimani ta woluwo pe'epe'enta wolau ode nga'amila jama'ati to propinsi lo Galatiya."
+        },
+        {
+          "verse_number": 3,
+          "text": "Allahuta'ala ti Papanto wawu ti Isa Almasih Eyanto ma mongohi mayi rahmati wawu udame ode olimongoli mololayita."
+        },
+        {
+          "verse_number": 4,
+          "text": "Ti Isa Almasih ma lopokurubani lo batanga-Liyo sababu dusa-dusawala hepilohutunto wawu Tiyo lolopatao olanto monto u moleta to jamani boti. Tiyo lohutu odito sababu ta'ati ode kohondaki lo Allahuta'ala ti Papanto."
+        },
+        {
+          "verse_number": 5,
+          "text": "Allahuta'ala patuti pujiyola mololayita! Amin."
+        },
+        {
+          "verse_number": 6,
+          "text": "Wau herani, timongoli ngointa lopalingo monto Allahuta'ala ta loibode olimongoli to delomo rahmati li Isa Almasih wawu timongoli bo ma lodudua injili wuwewo."
+        },
+        {
+          "verse_number": 7,
+          "text": "Bo u banari, uwito boyito dila injili bo woluwo tawu-tawuwala ta lopotunggulayi ode olimongoli Injili tomimbihu ti Isa Almasih u ma iluba limongoliyo tunggulo lo'oa'ayambulula hila limongoli."
+        },
+        {
+          "verse_number": 8,
+          "text": "Wonu woluwo ta mopotunggulayi lo pongajari ngopohiya mao lo u omo-omolu ma pilongajari mayi lami ode olimongoli, openu boli ami lohihilawo meyalo malaikati lonto soroga, ma la'anatiyo lo Allahuta'ala."
+        },
+        {
+          "verse_number": 9,
+          "text": "Pe'entapo poleleu mayi ode olimongoli deu wonu bolo woluwo ta mongajari olimongoli lo pongajari u bebedawa wolo u ma tilolimo limongoli lonto olami omo-omolu, tiyo boyito ma la'anatiyo lo Allahuta'ala."
+        },
+        {
+          "verse_number": 10,
+          "text": "Wau dila hemoharapu deu karajau popobanariyo lo manusiya, sababu Allahuta'ala ta mopobanari mayi lo karajau. Wau olo dila hemongusaha mo'osanangi hila lo manusiya. Wonu wau donggo hemongusaha odito, dila ponga lo akali wau botiye mowali wato li Isa Almasih."
+        },
+        {
+          "verse_number": 11,
+          "text": "Mongowutata ngoimani, poleleu mayi ode olimongoli deu habari mopiyohu tomimbihu ti Isa u hepopotunggulou mayi ode olimongoli dila lotapu'u lonto manusiya."
+        },
+        {
+          "verse_number": 12,
+          "text": "Sababu habari boyito dila tilolimou lonto manusiya wawu diyaluwo ngota mao ta longajari olau lo pasali boyito. Bo wau lololimo wahyu lonto oli Isa Almasih lohihilawo."
+        },
+        {
+          "verse_number": 13,
+          "text": "Tantu mongowutato ma lo'odungohe wololo huhutu'u u omo-omolu to delomo agama lo Yahudi. To wakutu boyito wau heloloarinayawa wawu hemotolousahawa mongantulu jama'ati lo Allahuta'ala."
+        },
+        {
+          "verse_number": 14,
+          "text": "To delomo agama lo Yahudi wau lebe to yitatao lo tamaniu ta ngotilumula wolau to wolota lo bangusau wawu wau tala ngota lo ta lebe mo'olohe da'a momalihara adati lo mongotiyombu lami."
+        },
+        {
+          "verse_number": 15,
+          "text": "Bo loli rahmati-Liyo Allahuta'ala lolulawoto wawu loibode olau lonto ombongo lomayi. Tiyo lokohondaki lopopatatayi lo Wala-Iyo, deuwitoyito ti Isa Almasih ode olau, alihu wau mopotunggulo habari mopiyohu tomimbihu Wala'a boyito to wolota lo bangusa ta dila Yahudi. To wakutu boyito wau dilalo lohile potunu lonto manusiya."
+        },
+        {
+          "verse_number": 16,
+          "text": "(1:15)"
+        },
+        {
+          "verse_number": 17,
+          "text": "Odito olo wau dila lonao ode kota lo Yerusalem mota modudunggaya wolimongoliyo ta ma lowali rasul tou wau dipo lowali rasul. Bo wau ma lato lonao ode lipu lo Arabi mota lopotunggulo habari mopiyohu wawu lonteto mao wau lohuwalinga ode kota lo Damsik."
+        },
+        {
+          "verse_number": 18,
+          "text": "Tou ma tolotawunu mola wau lonao ode kota lo Yerusalem ohila mo'otawa wole Petrus wawu wau mota lotihangata mopulu wawu limohuyi hihewoliyo to beleliyo."
+        },
+        {
+          "verse_number": 19,
+          "text": "Bo wau bo lodudunggaya wole Petrus wawu te Yakobus wutati Isa Eyanto; mongorasul wuwewo diyaluwo mao ta lodudunggaya wolau."
+        },
+        {
+          "verse_number": 20,
+          "text": "To talu lo Allahuta'ala poleleu mayi ode olimongoli deu wolo u ma tiluladu'u mayi botiye banari wawu dila bo yimbulo."
+        },
+        {
+          "verse_number": 21,
+          "text": "Lapatao lonto kota lo Yerusalem wau lonao ode kota-kotawala to propinsi lo Siriya wawu Kilikiya helopotunggulo habari mopiyohu tomimbihu ti Isa Almasih."
+        },
+        {
+          "verse_number": 22,
+          "text": "Sababu uwito, wau lohihilawo dila otawa lo jama-jama'atiyala li Isa Almasih to lipu lo Yudeya."
+        },
+        {
+          "verse_number": 23,
+          "text": "Timongoliyo bo lo'odungohu deu ta omo-omolu heloloarinayawa ta paracaya ode oli Isa Almasih Eya, masatiya ma hemopotunggulo habari mopiyohu tomimbihu imani ode Isa Almasih Eya u tou boyito ohila antuluwoliyo."
+        },
+        {
+          "verse_number": 24,
+          "text": "Wawu timongoliyo helomuji Allahuta'ala sababu wau."
+        }
+      ]
+    },
+    {
+      "chapter_number": 2,
+      "source_url": "https://alkitab.mobi/gorontalo/Gal/2",
+      "verses": [
+        {
+          "verse_number": 1,
+          "text": "Tou ma mopulu wawu wopato tawunu mola wau lonao poli ode kota lo Yerusalem wole Barnabas wawu te Titus olo tiliyangu'u pe'epe'enta wolau."
+        },
+        {
+          "verse_number": 2,
+          "text": "Wau lo'otapu bibilohe tuwawu deu Allahuta'ala lopoahu olau monao ode kota lo Yerusalem. Tetomota wau lodudunggaya wolo ta heanggapuwo lo tawu o biluloa to wolota lo jama'ati teto. Habari mopiyohu tomimbihu ti Isa Almasih u hepopotunggulou ode tawu ta dila Yahudi tilombangau mao ode olimongoliyo wambao, sababu wau dila yinawo usahau omo-omolu meyalo u masatiya mowali dila ohunaliyo."
+        },
+        {
+          "verse_number": 3,
+          "text": "Bo openu te Titus ta nao-nao wolau boyito tawu lo Yunani bo dila pilakusa limongoliyo moituna moturuti mao adati lo tawu lo Yahudi."
+        },
+        {
+          "verse_number": 4,
+          "text": "Memangi woluwo to wolota lo jama'ati to kota lo Yerusalem ta motohilawo alihu te Titus moituna, deuwitoyito timongoliyo ta hepongakuwa paracaya ode oli Isa Almasih padahali dila. Timongoliyo lomaso ode jama'ati wolo uhetua ohila mongotota sambe ode utonu obebasinto u yilohi li Isa Almasih, alihu timongoliyo mowali mopowato olanto to delomo adati limongoliyo."
+        },
+        {
+          "verse_number": 5,
+          "text": "Bo ami openu bo ngointi mao dila lota'aluku ode olimongoliyo, alihu obobanari lo habari mopiyohu tomimbihu ti Isa tatapu woluwo to olimongoli."
+        },
+        {
+          "verse_number": 6,
+          "text": "Tou wau ma lodudunggaya mao wolo ta heanggapuwo lo tawu ta o biluloa to wolota lo jama'ati to kota lo Yerusalem boyito, diyaluwo ngointi mao pasa-pasaliyala u piloduhengi mongoliyo to habari mopiyohe u hepopotunggulou. Biluloa limongoliyo boyito dila boti paralu olau, sababu Allahuta'ala lohihilawo dila hemopobedawo lo tawu."
+        },
+        {
+          "verse_number": 7,
+          "text": "Timongoliyo lopobanari deu wau ma pilaracaya lo Allahuta'ala mopotunggulo habari mopiyohu tomimbihu ti Isa ode ta dila hetunawa, odelo te Petrus pilaracaya lo Allahuta'ala mopotunggulo habari mopiyohu ode tawu lo Yahudi ta hetunawa."
+        },
+        {
+          "verse_number": 8,
+          "text": "Timongoliyo olo lopobanari deu Allahuta'ala ta ma longohi kawasa ode le Petrus lowali rasul ode ta hetunawa. Tiyo olo ta ma longohi kawasa ode olau lowali rasul ode tawu-tawuwala ta dila Yahudi."
+        },
+        {
+          "verse_number": 9,
+          "text": "Tou lo'onto mao rahmati lo Allahuta'ala u ma yilohi-Liyo ode olau, mongotauwa lo jama'ati deuwitoyito te Yakobus, te Petrus wawu te Yahya, losalawati wolau wole Barnabas tuwoto ami ma losatujuwa wolimongoliyo deu ami monao mopotunggulo habari mopiyohu tomimbihu ti Isa ode tawu-tawuwala ta dila Yahudi wawu timongoliyo ode ta hetunawa."
+        },
+        {
+          "verse_number": 10,
+          "text": "Bo tuwawu u pilopoela mayi limongoliyo ode olami, deuwitoyito alihu ami momantu mao ta misikini wawu memangi wau sanangi mokaraja mao pasali boyito."
+        },
+        {
+          "verse_number": 11,
+          "text": "Bo to wakutu te Petrus lonao mao ode jama'ati to kota lo Antiyokiya to propinsi lo Siriya, wau memangi lolawani oliyo to talu lo tawu ngohuntuwa sababu tiyo tilala."
+        },
+        {
+          "verse_number": 12,
+          "text": "Sababu tou dipo ledungga mayi ode kota boyito ta ngololota ta ilahula le Yakobus, tiyo lalayita hemonga pe'epe'enta wolo tawu ta dila Yahudi. Bo tou ma ledungga mayi timongoliyo, tiyo lopo'olamingo wawu ma didu yilonga pe'epe'enta wolimongoliyo sababu mohe lo tawu-tawuwala lo Yahudi ta o pahamu deu nga'amila tawu musi moituna."
+        },
+        {
+          "verse_number": 13,
+          "text": "Wawu tawu lo Yahudi wuwewo ta paracaya ode oli Isa ma lomunapiki woliyo, tunggulo te Barnabas olo ma ilodedea lomunapiki limongoliyo boyito."
+        },
+        {
+          "verse_number": 14,
+          "text": "Bo tou wau lo'onto mao huhutu limongoliyo boyito dila motu'ude wolo obobanari lo habari mopiyohu tomimbihu ti Isa, wau lobisala ode ole Petrus to talu limongoliyo nga'amila odiye, ”Yio dila mowali momakusa mongowutata ngoimani ta dila hetunawa mota'ati adati lo tawu lo Yahudi, sababu yio lohihilawo tawu lo Yahudi dila ta'ati to adati lo tawu lo Yahudi boyito."
+        },
+        {
+          "verse_number": 15,
+          "text": "Asalinto boti lonto waliya lo tawu lo Yahudi wawu dila lonto ta heodusawa monto bangusa wuwewo."
+        },
+        {
+          "verse_number": 16,
+          "text": "Otawanto deu diyaluwo ngota mao ta popobanariyo lo Allahuta'ala sababu mokaraja hukum lo Tawurat. Wawu ito ma paracaya ode oli Isa Almasih alihu ito popobanariyo lo Allahuta'ala, dila sababu hemokaraja hukum lo Tawurat, bo sababu imaninto ode oli Isa Almasih. Memangi diyaluwo ngota mao ta popobanariyo lo Allahuta'ala sababu mokaraja hukum lo Tawurat.” Odito u yiloiyau mao ode ole Petrus."
+        },
+        {
+          "verse_number": 17,
+          "text": "Wonu ito lohihilawo hepongusahawa alihu popobanariyo lo Allahuta'ala to delomo oli Isa Almasih bo lapatao lopatatayi deu ito lohutu dusa, tawu ma monganggapu deu ti Isa Almasih ta lohehula olanto lohutu dusa. Uwito dila banari."
+        },
+        {
+          "verse_number": 18,
+          "text": "Wonu wau donggo muli mohuwalingao tumumula to tibawa lo hukum lo Tawurat u ma tilolau mayi, wau ma muli lowali tawu ngota ta mollambanga aturu."
+        },
+        {
+          "verse_number": 19,
+          "text": "Bo wau ma yilate lonto hukum lo Tawurat wawu ma lolopatao lonto kawasa to hukum boyito, alihu wau mowali tumumula motu'ude wolo kohondaki lo Allahuta'ala. Tou ti Isa Almasih yilate to salipu, wau odelo ta ma yilate sasalipu pe'epe'enta wo-Liyo."
+        },
+        {
+          "verse_number": 20,
+          "text": "Wolo uodito, ta tumu-tumula masatiya boti dilalo wau lohihilawo bo ti Isa Almasih ta to delomo batangau. Wawu tutumula to delomo batangau masatiya botiya tutumulo imani ode Walao Allahuta'ala ta ma lotoliangu'u wawu ta ma lopokurubani lo batanga-Liyo sababu wau."
+        },
+        {
+          "verse_number": 21,
+          "text": "Wonu tawu mowali popobanariyo lo Allahuta'ala sababu mota'ati hukum lo Tawurat, opopate li Isa Almasih ma lowali dila ohunaliyo. Bo wau dila yinawo motolaki rahmati lo Allahuta'ala. Odito u ma pilopotunggulu'u mao ode ole Petrus omo-omolu wawu ode olimongoli olo masatiya."
+        }
+      ]
+    },
+    {
+      "chapter_number": 3,
+      "source_url": "https://alkitab.mobi/gorontalo/Gal/3",
+      "verses": [
+        {
+          "verse_number": 1,
+          "text": "Weyi tawu-tawuwala to jama-jama'atiyala to propinsi lo Galatiya ta hehulode, tatonu ta lohama losihiri olimongoli? Opopate li Isa to salipu yito ma pilopopatatu'u mayi ode olimongoli omo-omolu."
+        },
+        {
+          "verse_number": 2,
+          "text": "Woluwo pasali tuwawu u yintuwou olimongoli: Timongoli boti lololimo Roh Allahuta'ala sababu lokaraja hukum lo Tawurat meyambo sababu lodungohe habari mopiyohe lonto Allahuta'ala tunggulo timongoli ma pilaracaya?"
+        },
+        {
+          "verse_number": 3,
+          "text": "Timongoli ma pilaracaya wawu lolumulao to delomo Roh lo Allahuta'ala, bo masatiya timongoli hepongusahawa mopo'olapatao wolo usaha limongoli lohihilawo. Timongoli botiye otutu hehulode."
+        },
+        {
+          "verse_number": 4,
+          "text": "Wau hemoharapu alihu nga'amila u helotoduwo limongoli boyito dila bo mowali dila ohunaliyo."
+        },
+        {
+          "verse_number": 5,
+          "text": "Wolo uodito, Allahuta'ala hemongohi mayi Roh-Liyo wawu hemohutu mujijat ngohuntuwa to wolota limongoli, dila sababu timongoli mokaraja hukum lo Tawurat, bo sababu timongoli modungohe habari mopiyohe lonto Allahuta'ala, tunggulo timongoli mowali pilaracaya."
+        },
+        {
+          "verse_number": 6,
+          "text": "Odelo woluwo tula-tulade to kitabi tomimbihu ti nabi Ibrahim odiye, ”Tiyo paracaya ode Allahuta'ala, tunggulo tiyo lowali tawu banari to talu lo Allahuta'ala.” Odito u tula-tulade to kitabi."
+        },
+        {
+          "verse_number": 7,
+          "text": "Ototayi mao limongoli deu timongoliyo ta hetumula to delomo imani, timongoliyo boyito waliya li nabi Ibrahim."
+        },
+        {
+          "verse_number": 8,
+          "text": "Wawu kitabi lonto u omo-omolu lomayi ma lotombangayi deu Allahuta'ala mopobanari lo tawu-tawuwalo monto nga'amila bangusa sababu imani. Habari mopiyohe boyito lemulo ma pilopotunggulo Allahuta'ala ode oli nabi Ibrahim odiye, ”Moli olemu nga'amila bangusa ma mololimo barakati.” Odito Pirimani lo Allahuta'ala."
+        },
+        {
+          "verse_number": 9,
+          "text": "Wolo uodito, timongoliyo ta hetumula wolo imani ma barakatiya lo Allahuta'ala pe'epe'enta woli nabi Ibrahim ta o imani boyito."
+        },
+        {
+          "verse_number": 10,
+          "text": "Ototayi mao limongoli: Nga'amila tawu ta hepokarajawa hukum lo Tawurat to tibawa lo la'anati. Sababu woluwo tula-tuladu to kitabi odiye, ”Ma yila'anati lo Allahuta'ala ta dila ta'ati mokaraja mao openu bo tala tuwawu u woluwo to delomo kitabi lo hukum lo Tawurat.” Odito u tula-tulade to kitabi."
+        },
+        {
+          "verse_number": 11,
+          "text": "Ma otawanto olo deu diyaluwo ngota mao ta popobanariyo lo Allahuta'ala sababu mokaraja hukum lo Tawurat, odelo u tula-tulade to kitabi odiye, ”Ta banari ma tumumulo sababu imani!” Odito u tula-tulade to kitabi."
+        },
+        {
+          "verse_number": 12,
+          "text": "Hukum lo Tawurat, dila dadasari to imani; bo odelo u tula-tulade to kitabi odiye, ”Titalotita ta mokaraja mao nga'amila aturangi lo hukum lo Tawurat, tiyo ma tumumulo.”"
+        },
+        {
+          "verse_number": 13,
+          "text": "Ti Isa Almasih ma lopobebasi olami tawu lo Yahudi lonto la'anati u tula-tulade to hukum lo Tawurat wawu Tiyo lowali ta yila'anati lo Allahuta'ala tou Tiyo silalipuliyo, odelo woluwo tula-tuladu to kitabi odiye, ”Ma yila'anati lo Allahuta'ala tawu ta lo'otapu hukumani ntilayangiyo to ayu!” Odito u tula-tulade to kitabi."
+        },
+        {
+          "verse_number": 14,
+          "text": "Ti Isa Almasih lohutu odito alihu to delomo batanga-Liyo barakati u yilohi lo Allahuta'ala ode oli nabi Ibrahim tunggula mota ode nga'amila bangusa. Wawu ito mololimo Roh lo Allahuta'ala u pilojanjiya-Liyo boyito moli imani."
+        },
+        {
+          "verse_number": 15,
+          "text": "Mongowutato, wau mopohuna mayi lo humaya tuwawu monto tutumulunto ngohuyi-ngohuyi. Wonu janjiya tuwawu ma sah, diyaluwo ngota mao ta mowali momatali janjiya boyito meyambo moduhenga openu bo loloiya ngotahe to janjiya boyito."
+        },
+        {
+          "verse_number": 16,
+          "text": "Allahuta'ala ma lojanjiya woli nabi Ibrahim wawu waliyaliyo. To kitabi dila tula-tuladu odiye, ”Wawu ode ngohuntuwa waliyamu,” u hemakusuduwoliyo tawu ngohuntuwa. U banari tula-tulade to kitabi odiye, ”Wawu ode waliyamu.” Patuju lo ayati boyito, deuwitoyito tawu ngota ti Isa Almasih."
+        },
+        {
+          "verse_number": 17,
+          "text": "Patuju loloiyau, deuwitoyito Allahuta'ala ma lojanjiya woli nabi Ibrahim wawu ti nabi Ibrahim to'otutuwa lodihu janjiya boyito. Hukum lo Tawurat u yiloluwo wopato hetuta tolopulu lotawunu lapatiyo mao dila mowali momatali janjiya lo Allahuta'ala boyito u ma sah lonto u omo-omolu lomayi."
+        },
+        {
+          "verse_number": 18,
+          "text": "Wonu budeli u ma tilantu mayi lo Allahuta'ala boyito lonto hukum lo Tawurat, uwito ma didu janjiya bo sababu Allahuta'ala ma lojanjiya woli nabi Ibrahim. Sababu uwito, Tiyo ma mongohi mao budeli boyito ode oliyo."
+        },
+        {
+          "verse_number": 19,
+          "text": "Wonu odito, wolo patuju lo hukum lo Tawurat? Tametiyo mao deu hukum boyito yiloluwo alihu nga'amila totala lo manusiya mowali mopatato. Hukum boyito bo pona-ponao sambe ode Tawu ngota waliya li nabi Ibrahim, Ta ma pilojanjiya lo Allahuta'ala medungga mayi. Hukum lo Tawurat boyito pilopotunggulo Allahuta'ala loli mala-malaikatiyalo ode tawu ta lowali hulude ode bangusa lo Israel, deuwitoyito ti nabi Musa."
+        },
+        {
+          "verse_number": 20,
+          "text": "Bo tou Allahuta'ala lojanjiya woli nabi Ibrahim, Tiyo dila lomake hulude. Tiyo lohihilawo ta lopotunggulayi lo janjiya boyito."
+        },
+        {
+          "verse_number": 21,
+          "text": "Wonu odito, dila ponga lo akali hukum lo Tawurat yito lalawaniya wolo nga'amila janjiya lo Allahuta'ala. Wonu tutumula kakali yilohi lo Allahuta'ala ode manusiya loli hukum lo Tawurat, tantu manusiya ma popobanariyo lo Allahuta'ala moli hukum lo Tawurat olo, padahali dila odito."
+        },
+        {
+          "verse_number": 22,
+          "text": "Bo u banari to delomo kitabi woluwo tula-tuladu deu nga'amila uhetuwa-tuwawuwa kilawasa lo dusa, alihu janjiya boyito ma tolimo lo manusiya moli imani limongoliyo ode oli Isa Almasih."
+        },
+        {
+          "verse_number": 23,
+          "text": "Tou imani boyito dipoluwo to olami tawu lo Yahudi, ami donggo to tibawa lo hukum lo Tawurat wawu hetihuta sambe imani boyito mowali mopatato."
+        },
+        {
+          "verse_number": 24,
+          "text": "Wonu odito, hukum lo Tawurat yito potunu ode olami sambe ti Isa Almasih medungga mayi, alihu ami popobanariyo lo Allahuta'ala sababu imani ode oli Isa Almasih."
+        },
+        {
+          "verse_number": 25,
+          "text": "Masatiya imani boyito ma woluwo to olami wawu ami dilalo to tibawa lo hukum lo Tawurat."
+        },
+        {
+          "verse_number": 26,
+          "text": "Timongoli nga'amila ma lowali mongowalao Allahuta'ala loli imani limongoli ode oli Isa Almasih."
+        },
+        {
+          "verse_number": 27,
+          "text": "Timi'idu tawu to wolota limongoli ta ma yilihuwaliyo to delomo tangguli Isa Almasih, sipati li Isa Almasih ma woluwo to batanga limongoliyo boyito."
+        },
+        {
+          "verse_number": 28,
+          "text": "To delomo pasali botiye ma didu o bedawaliyo tawu lo Yahudi meyambo tawu lo Yunani, wato meyambo ta maradeka, mongololai meyambo mongobuwa, sababu timongoli ma lowali tuwawu to delomo oli Isa Almasih."
+        },
+        {
+          "verse_number": 29,
+          "text": "Wawu wonu timongoli ma lowali haku li Isa Almasih, timongoli ma lowali waliya li nabi Ibrahim wawu o haku mololimo janjiya lo Allahuta'ala ode oliyo."
+        }
+      ]
+    },
+    {
+      "chapter_number": 4,
+      "source_url": "https://alkitab.mobi/gorontalo/Gal/4",
+      "verses": [
+        {
+          "verse_number": 1,
+          "text": "Makusudu loloiyau, deuwitoyito ngohilayao tawu ngota ta o haku mololimo budeli donggo kikio, tiyo tutuwawuwa wolo wato openu tiyo tuwani lo ta nga'amila,"
+        },
+        {
+          "verse_number": 2,
+          "text": "sababu woluwo ta hepodahawa wawu hepongurusaniya oliyo sambe ode wakutu u ma tilantu mayi li yamoliyo."
+        },
+        {
+          "verse_number": 3,
+          "text": "Odito olo ito: Ngohilayao ito donggo kekeingo, ito to tibawa lo nga'amila aturu lo duniya u hemopowato olanto."
+        },
+        {
+          "verse_number": 4,
+          "text": "Bo tou ma leganapu wakutuliyo, Allahuta'ala lopoahu mayi lo Wala-Iyo ti Isa Almasih ta pilotutuliyo mayi lo tabuwa ngota wawu tumu-tumula to tibawa lo hukum lo Tawurat."
+        },
+        {
+          "verse_number": 5,
+          "text": "Tiyo ilahula mayi lo Allahuta'ala mopobebasi ta hetumula to tibawa lo hukum lo Tawurat, alihu ito mo'otapu haku mowali mongowalao Allahuta'ala."
+        },
+        {
+          "verse_number": 6,
+          "text": "Sababu timongoli ma lowali mongowalao Allahuta'ala, Allahuta'ala lopoahu mayi lo Roh lo Wala-Iyo ode delomo hilanto, tunggulo ito mowali moibode Allahuta'ala odiye, ”Wu Abba! Wu Papa!”"
+        },
+        {
+          "verse_number": 7,
+          "text": "Timongoli dilalo wato bo walao. Wolo uodito, timongoli o haku mololimo janjiya lonto Allahuta'ala."
+        },
+        {
+          "verse_number": 8,
+          "text": "Tou omo-omolu timongoli dipo motota lo Allahuta'ala wawu timongoli hepotitiwatowa ode u ngopohiya mao lo Allahuta'ala."
+        },
+        {
+          "verse_number": 9,
+          "text": "Bo masatiya timongoli ma lotota lo Allahuta'ala, meyambo u lebe banari timongoli ma ilotawa lo Allahuta'ala. Longola timongoli ma hepohuwalinga ode aturu lo duniya u misikini wawu molulupuhu? Wawu longola olo timongoli mohuto muli motitiwato ode u ngopohiya mao lo Allahuta'ala?"
+        },
+        {
+          "verse_number": 10,
+          "text": "Timongoli hedihima deu woluwo dulahe mopiyohu wawu woluwo olo u moleto wawu timongoli muli hepomaliharawa hulalo, tawunu wawu sembo u mopiyohu to pahamu limongoli mulolo."
+        },
+        {
+          "verse_number": 11,
+          "text": "Wau hawatiri deu nga'amila buleu to wolota limongoli ma mowali dila ohunaliyo."
+        },
+        {
+          "verse_number": 12,
+          "text": "Pohileu ode olimongoli mongowutata ngoimani: Potiwali mao timongoli odelo wau, sababu wau olo ma lotitiwali odelo timongoli tou wau to wolota limongoli. Timongoli dipo pe'enta mao lohutu u tilala ode olau."
+        },
+        {
+          "verse_number": 13,
+          "text": "Tantu donggo he'elawa olimongoli tou bohuliyo wau lopotunggulayi lo habari mopiyohe lonto Allahuta'ala ode olimongoli, wau mongongoto to wakutu boyito."
+        },
+        {
+          "verse_number": 14,
+          "text": "Openu to wakutu boyito ilanggangu'u mongongoto lowali yimontala tuwawu ode olimongoli, bo timongoli dila hemonganggapu olau tawu hina wawu lomuhu olau. Timongoli lololimo olau odelo ta lololimo malaikati lo Allahuta'ala meyalo lololimo oli Isa Almasih lohihilawo."
+        },
+        {
+          "verse_number": 15,
+          "text": "Tou boyito timongoli hesanangiya wawu masatiya dila. Poleleu mayi ode olimongoli deu tou boyito wonu bo mowali, timongoli ma mohinggi mayi botu lo mato limongoli wohi limongoli olau."
+        },
+        {
+          "verse_number": 16,
+          "text": "Wolo uodito, wonu wau mopotunggulayi lo u banari ode olimongoli, dila mao heanggapuwa wau musu limongoli."
+        },
+        {
+          "verse_number": 17,
+          "text": "Tawu ta lomolia Injili li Isa Almasih o somangati motiyanga olimongoli, bo patuju limongoliyo dila mopiyohu. Timongoliyo ohila mopopisawo limongoli wolami, alihu timongoli mohuto mopojuwangi lo pongajari limongoliyo."
+        },
+        {
+          "verse_number": 18,
+          "text": "Memangi mopiyohu wonu tawu o somangati to pasa-pasaliyala mopiyohu, asalipo timi'idu wakutu, dila de woluwo wau to wolota limongoli."
+        },
+        {
+          "verse_number": 19,
+          "text": "Weyi mongowalau'u to delomo imani, wau masatiya odelo tabuwa ngota duto-dutola ngongoto ma motutu. Wau ma modutola u odito poli wonu sipati li Isa Almasih dipo mopatato to batanga limongoli."
+        },
+        {
+          "verse_number": 20,
+          "text": "Mayilaba wololu'u ohila motitola to wolota limongoli masatiya wawu wau dilalo mobisala odiye ode olimongoli. Bo masatiya wau ma ilopulita lo pikirangi wolimongoli."
+        },
+        {
+          "verse_number": 21,
+          "text": "Mongowutato ta yinawo tumumula to tibawa lo hukum lo Tawurat, nte dungohi limongoli wau mojolasi mayi tuwango hukum lo Tawurat boyito."
+        },
+        {
+          "verse_number": 22,
+          "text": "Woluwo tula-tuladu to kitabi deu ti nabi Ibrahim o wala'a mongololai dulota, ta ngota walaiyo to tabuwa watoliyo wawu ta ngota walaiyo to tabuwa ngota maradeka."
+        },
+        {
+          "verse_number": 23,
+          "text": "Bo wala'a to tabuwa watoliyo boyito lowali moturuti mao kohondaki lo manusiya wawu wala'a to tabuwa ngota maradeka lowali sababu janjiya lo Allahuta'ala."
+        },
+        {
+          "verse_number": 24,
+          "text": "Utiye mowali lumade tuwawu sababu mongobuwa dulota boyito tuwoto janjiya moheduluwo lonto Allahuta'ala. Ti Hajar yito tuwoto janjiya tuwawu lonto huidu Sinayi wawu manusiya ta pilotutuliyo mayi to tibawa lo janjiya boyito lowali wato."
+        },
+        {
+          "verse_number": 25,
+          "text": "Ti Hajar boyito tuwoto janjiya to huidu Sinayi to Arabi wawu tiyo lumadu kota lo Yerusalem masatiya wawu nga'amila ta hetumula teto. Timongoliyo lowali wato to tibawa lo hukum lo Tawurat."
+        },
+        {
+          "verse_number": 26,
+          "text": "Ti Sara tabuwa ngota maradeka tuwoto janjiya oluwoliyo lumadu kota lo Yerusalem u to soroga, deuwitoyito ti mamanto."
+        },
+        {
+          "verse_number": 27,
+          "text": "Sababu woluwo tula-tuladu to kitabi odiye, ”Potiwengahulo wawu ponguwatiolo yio tabuwa bintela wawu ta dila pe'enta mao lo'orasa ngongoto u motutu! Sababu tabuwa tumu-tumula tutuwawu ma mo'otapu wala'a ngohuntuwa popobandingiyo mao wolo tabuwa ta ohiyalo.” Odito u tula-tulade to kitabi."
+        },
+        {
+          "verse_number": 28,
+          "text": "Wawu timongoli mongowutata ngoimani, timongoli odelo te Ishak wala'a ta pilojanjiya lo Allahuta'ala."
+        },
+        {
+          "verse_number": 29,
+          "text": "Bo odelo to masa boyito wala'a ta pilotutuliyo mayi moturuti mao kohondaki lo manusiya longarinaya wala'a ta pilotutuliyo mayi moturuti mao janjiya lo Roh lo Allahuta'ala, odito olo masatiya botiye."
+        },
+        {
+          "verse_number": 30,
+          "text": "Bo woluwo loiya lo ayati to kitabi odiye, ”Tapila mao wato tabuwa boyito wolo walaiyo sababu wala'a wato boyito dila ta mo'otapu bahagiyangi to budeli pe'epe'enta wolo wala'a to tabuwa maradeka.” Odito loiya lo ayati to kitabi."
+        },
+        {
+          "verse_number": 31,
+          "text": "Wolo uodito mongowutata ngoimani, ito dila walao tabuwa wato bo walao tabuwa maradeka."
+        }
+      ]
+    },
+    {
+      "chapter_number": 5,
+      "source_url": "https://alkitab.mobi/gorontalo/Gal/5",
+      "verses": [
+        {
+          "verse_number": 1,
+          "text": "Ti Isa Almasih ma lopobebasi olanto alihu ito otutu maradeka. Wolo uodito, po'olotola lomola imani limongoli wawu dilalo mao poluliya tawu mopowali olimongoli wato."
+        },
+        {
+          "verse_number": 2,
+          "text": "Ototayi mao limongoli, wau te Pawulus moloiya mayi deu imani limongoli ode oli Isa Almasih dilalo ohunaliyo wonu timongoli satuju moituna alihu timongoli salamati."
+        },
+        {
+          "verse_number": 3,
+          "text": "Pe'entapo poleleu mayi ode tawu ta satuju moituna moturuti mao adati lo tawu lo Yahudi, tiyo wajibu mokaraja mao nga'amila aturangi lo hukum lo Tawurat."
+        },
+        {
+          "verse_number": 4,
+          "text": "Timongoli ta ohilawo popobanariyo lo hukum lo Tawurat, timongoli ma lopo'olamingo monto oli Isa Almasih wawu timongoli hetumula to bulemengiyo lo rahmati lo Allahuta'ala."
+        },
+        {
+          "verse_number": 5,
+          "text": "Bo wolo kawasa lo Roh lo Allahuta'ala moli imani ode oli Isa Almasih, ito yiyakini ma popobanariyo lo Allahuta'ala."
+        },
+        {
+          "verse_number": 6,
+          "text": "Sababu to ta paracaya ode oli Isa Almasih pasali tutuna meyambo dila, diyaluwo mao hunaliyo. U ohunaliyo, deuwitoyito imani ode oli Isa Almasih u mowali mopatatayi moli toliangunto ode tawu wuwewo."
+        },
+        {
+          "verse_number": 7,
+          "text": "Omo-omolu timongoli hepohilapita mohutu u banari. Tatonu ta lomubulo wawu heloheyinga olimongoli, tunggulo timongoli dilalo ta'ati to u banari boyito?"
+        },
+        {
+          "verse_number": 8,
+          "text": "Ta lomubulo wawu ta loheyinga olimongoli boyito dila ta ilahula lo Allahuta'ala ta ma loibode olimongoli."
+        },
+        {
+          "verse_number": 9,
+          "text": "Ta odito boyito odelo ragi, openu bo ngoidi mo'olesi tirigu u tato-tato."
+        },
+        {
+          "verse_number": 10,
+          "text": "Wau yiyakini to delomo tanggulo Isa Almasih Eya deu timongoli satuju wolau tomimbihu pasali boti wawu timongoli dila hepomikirangi u wuwewo mao. Bo openu tatonu tawu ta lo'oa'ayambulula hila limongoli, ta boyito ta motanggungi hukumani monto Allahuta'ala."
+        },
+        {
+          "verse_number": 11,
+          "text": "Mongowutata ngoimani, tomimbihu wau wonu wau donggo hemopotunggulo pongajari tomimbihu tuna alihu salamati, opopate li Isa Almasih to salipu dilalo mowali bubula to tawu ta hedihima hukum lo Tawurat. Wonu wau hemongajari odito, dila ponga lo akali wau arinaya lo tawu lo Yahudi."
+        },
+        {
+          "verse_number": 12,
+          "text": "Lebe mopiyohu timongoliyo ta hemo'oa'ayambulula hila limongoli tomimbihu tuna boyito moikabiri mao!"
+        },
+        {
+          "verse_number": 13,
+          "text": "Mongowutata ngoimani, memangi timongoli ma ilibode lo Allahuta'ala lowali maradeka. Bo dila mowali umaradeka boyito popohuna limongoli mohutu dusa. Bo poyiyintawa mao timongoli wolo toliango."
+        },
+        {
+          "verse_number": 14,
+          "text": "Sababu totonulalo aturangi lo hukum lo Tawurat ma hihimbungu to delomo Pirimani odiye, ”Otoliangamu mao tawu ta titiliya wolemu odelo yio motoliango batangamu lohihilawo.” Odito Pirimani lo Allahuta'ala to kitabi."
+        },
+        {
+          "verse_number": 15,
+          "text": "Bo wonu timongoli layito papateya, awasi! Timongoli ma mowali binasa."
+        },
+        {
+          "verse_number": 16,
+          "text": "Poleleu mayi ode olimongoli: Potumulao to delomo Roh lo Allahuta'ala, alihu timongoli dila moturuti kohondaki lo napusu limongoli."
+        },
+        {
+          "verse_number": 17,
+          "text": "Napusu lo manusiya lalawaniya wolo kohondaki lo Roh lo Allahuta'ala wawu kohondaki lo Roh lo Allahuta'ala lalawaniya lo napusu lo manusiya, sababu duduluwo lalawaniya tunggulo timongoli dila mowali mohutu u otohila limongoli."
+        },
+        {
+          "verse_number": 18,
+          "text": "Bo wonu timongoli mohudu mao batanga limongoli aturuwo lo Roh lo Allahuta'ala, timongoli dila hetumula to tibawa lo hukum lo Tawurat."
+        },
+        {
+          "verse_number": 19,
+          "text": "Hasili lo napusu lo manusiya memangi ma mopatato, deuwitoyito huloto, najisi, jina,"
+        },
+        {
+          "verse_number": 20,
+          "text": "molubo u ngopohiya mao lo Allahuta'ala, mosihiri, sasaturuwa, hulinggila, tilibu, yingowa, mopouda'a batanga lohihilawo, bubuaya wawu pahamuliyo-pahamuliyo,"
+        },
+        {
+          "verse_number": 21,
+          "text": "hihiya, motihuwo'o, yinawo motisanangi wawu lahe-lahepa lomao u moleto. Ode unga'amila botiye popoelau mayi olimongoli odelo u ma pilopoelau mayi olimongoli omo-omolu: Titalotita ta hemolohutuwa u odiye, tiyo dila mo'otapu bahagiyangi to delomo Yiladiya lo Allahuta'ala."
+        },
+        {
+          "verse_number": 22,
+          "text": "Bo hungo lo Roh lo Allahuta'ala yito tolianga, wengahu, dame, sabari, hilawo mura, piyohu, imani,"
+        },
+        {
+          "verse_number": 23,
+          "text": "lumboyoto wawu mokawasa batanga lohihilawo. Diyaluwo hukum u momutola pasa-pasaliyala botiye."
+        },
+        {
+          "verse_number": 24,
+          "text": "Titalotita ta lowali haku li Isa Almasih, tiyo ma loposalipu mao lo totonulalo hawa napusu wawu totonulalo u otohilaliyo."
+        },
+        {
+          "verse_number": 25,
+          "text": "Wonu ito hetumula to delomo Roh lo Allahuta'ala, Roh lo Allahuta'ala ma mongaturu olanto."
+        },
+        {
+          "verse_number": 26,
+          "text": "Wawu dila mowali ito motisombongi, mopopatuwo wawu mohihihiya lomao."
+        }
+      ]
+    },
+    {
+      "chapter_number": 6,
+      "source_url": "https://alkitab.mobi/gorontalo/Gal/6",
+      "verses": [
+        {
+          "verse_number": 1,
+          "text": "Mongowutata ngoimani, wonu tawu ngota odungga limongoli hemohutu dusa, timongoli ta lebe mongarati lo pasali u rohani, musi mongohi mao oliyo potunu wolo umolumboyoto, alihu tiyo mohuwalingayi ode dalala banari. Wawu po'odaha timongoli alihu dila mowali otarikiyaliyo mohutu u odito."
+        },
+        {
+          "verse_number": 2,
+          "text": "Potuturungiya mao timongoli tou momota dudelo mobubuheto! Wolo uodito, timongoli mopo'opolu hukum li Isa Almasih."
+        },
+        {
+          "verse_number": 3,
+          "text": "Wonu tawu ngota hemonganggapu batangaliyo uda'a padahali dila, tiyo hemongakali batangaliyo lohihilawo."
+        },
+        {
+          "verse_number": 4,
+          "text": "Lebe mopiyohu tawu momarakisa huhutuliyo lohihilawo; wonu mopiyohu, deuwito tiyo mowali motitiwengahu. Bo dila mowali mopobandingiyo lo huhutuliyo boyito wolo huhutu lo tawu wuwewo mao."
+        },
+        {
+          "verse_number": 5,
+          "text": "Sababu timi-timi'idu tawu musi motanggungi hungo lo huhutuliyo lohihilawo."
+        },
+        {
+          "verse_number": 6,
+          "text": "Wawu lebe mopiyohu tawu ta hemololimo pongajari lo Pirimani lo Allahuta'ala, molayadeo u mopiyohu u woluwo to oliyo ode ta hemongajari boyito."
+        },
+        {
+          "verse_number": 7,
+          "text": "Po'odaha timongoli popolapalo lo tawu! Allahuta'ala dila mowali poyitohu. U pilomuayadu tawu, uwito olo u ma tipuwoliyo."
+        },
+        {
+          "verse_number": 8,
+          "text": "Titalotita ta mopomuayadu mopo'opolu u otohila lo napusuliyo, tiyo ma molipu ubinasa. Bo titalotita ta mopomuayadu mopo'opolu kohondaki lo Roh lo Allahuta'ala, tiyo ma molipu hasili tutumula kakali monto Roh lo Allahuta'ala."
+        },
+        {
+          "verse_number": 9,
+          "text": "Bo ito dila mowali mohuheli mohutu u mopiyohu, sababu ma medungga mayi wakutuliyo, ito ma molipu u mopiyohu wonu ito turu-turusi hepohutuwa u mopiyohu."
+        },
+        {
+          "verse_number": 10,
+          "text": "Uwitolo sababuliyo ngohilayao ito donggo o wakutu, dulolo ito mohutu piyohu ode tawu ngohuntuwa, tidiyo lomao ode mongowutatonto ngoimani."
+        },
+        {
+          "verse_number": 11,
+          "text": "Po'obilohe mao limongoli, mayilaba dudulamango hurupu u ma tiluladu'u mayi lo olu'u'u lohihilawo."
+        },
+        {
+          "verse_number": 12,
+          "text": "Nte elayi mola limongoli, tawu-tawuwala ta hepomakusawa olimongoli tunaliyo, timongoliyo motohilawo lo ubilohe mayi lo tawu lo Yahudi deu timongoliyo tawu mopiyohu to delomo pasali u jasmani. Timongoliyo lohutu odito, alihu dila arinaya lo tawu lo Yahudi boyito sababu paracaya ode oli Isa Almasih ta yilate silalipuliyo."
+        },
+        {
+          "verse_number": 13,
+          "text": "Timongoliyo lohihilawo ta hetunawa, dila ta'ati to hukum lo Tawurat. Bo timongoliyo motohilawo moituna mao olimongoli, alihu timongoliyo mowali mopololade mota lo habari deu timongoli ma pileituna limongoliyo."
+        },
+        {
+          "verse_number": 14,
+          "text": "Wau lohihilawo bo motohilawo mopololadu habari li Isa Almasih Eyanto ta ma yilate silalipuliyo, tunggulo duniya boti ma dilalo ohunaliyo olau wawu ode duniya boti wau odelo ta ma yilate silalipuliyo."
+        },
+        {
+          "verse_number": 15,
+          "text": "Tutuna meyalo dila diyalu mao hunaliyo; bo mowali manusiya bohu, uwito u ohunaliyo."
+        },
+        {
+          "verse_number": 16,
+          "text": "Ode nga'amila ta ma lota'ati pahamu odito, Allahuta'ala ma mongohi mayi udame wawu usanangi wawu rahmati ode yitati mongoliyo wawu ode yitato tawu lo Israel umati lo Allahuta'ala."
+        },
+        {
+          "verse_number": 17,
+          "text": "Pulitiyo mao, lebe mopiyohu tawu dila mopo'osusa olau, sababu to batangau woluwo bakasi lo pali tuwoto wau wato li Isa Almasih."
+        },
+        {
+          "verse_number": 18,
+          "text": "Ti Isa Almasih Eyanto mongohi mayi barakati ode olimongoli mongowutato! Amin. Salamu'u, Pawulus"
+        }
+      ]
+    }
+  ]
+}

@@ -1,5 +1,6 @@
 from __future__ import annotations
 
+import re
 import time
 
 from llama_cpp import Llama
@@ -8,12 +9,13 @@ from .base import Model
 from ..constants import GenerationStatus
 from ..schemas import GenerationResult, ModelConfig
 
+
 class GGUFAdapter(Model):
     def __init__(self, config: ModelConfig) -> None:
         super().__init__(config)
-        
+
         path = self.config.model_path
-        
+
         if not path.lower().endswith(".gguf") and not __import__("pathlib").Path(path).exists():
             from huggingface_hub import HfApi, hf_hub_download
             api = HfApi()
@@ -23,27 +25,54 @@ class GGUFAdapter(Model):
                 raise ValueError(f"No .gguf files found in repo {path}")
             target_file = next((f for f in gguf_files if "q4_k_m" in f.lower()), gguf_files[0])
             path = hf_hub_download(repo_id=path, filename=target_file)
-            
+
         import llama_cpp
-        
+
         def get_ggml_type(type_str: str):
             attr_name = f"GGML_TYPE_{type_str.upper()}"
             return getattr(llama_cpp, attr_name, getattr(llama_cpp, "GGML_TYPE_F16", 1))
 
         type_k_val = get_ggml_type(self.config.type_k)
         type_v_val = get_ggml_type(self.config.type_v)
-            
-        self.llm = Llama(
-            model_path=path,
-            n_ctx=self.config.n_ctx,
-            n_gpu_layers=self.config.n_gpu_layers,
+
+        self.llm = self._create_llama_instance(
+            path, type_k_val, type_v_val,
             flash_attn=self.config.flash_attn,
-            n_batch=self.config.n_batch,
-            n_ubatch=self.config.n_ubatch,
-            type_k=type_k_val,
-            type_v=type_v_val,
-            verbose=False,
         )
+
+    def _create_llama_instance(
+        self, path: str, type_k_val, type_v_val, *, flash_attn: bool
+    ) -> Llama:
+        try:
+            return Llama(
+                model_path=path,
+                n_ctx=self.config.n_ctx,
+                n_gpu_layers=self.config.n_gpu_layers,
+                flash_attn=flash_attn,
+                n_batch=self.config.n_batch,
+                n_ubatch=self.config.n_ubatch,
+                type_k=type_k_val,
+                type_v=type_v_val,
+                verbose=False,
+            )
+        except Exception as init_err:
+            if flash_attn:
+                print(
+                    f"[WARN] Failed to create llama context with flash_attn=True: {init_err}"
+                    f"\n       Retrying with flash_attn=False..."
+                )
+                return Llama(
+                    model_path=path,
+                    n_ctx=self.config.n_ctx,
+                    n_gpu_layers=self.config.n_gpu_layers,
+                    flash_attn=False,
+                    n_batch=self.config.n_batch,
+                    n_ubatch=self.config.n_ubatch,
+                    type_k=type_k_val,
+                    type_v=type_v_val,
+                    verbose=False,
+                )
+            raise
 
     def generate(
         self,
@@ -59,73 +88,38 @@ class GGUFAdapter(Model):
         calculate_latency: bool = False,
     ) -> GenerationResult:
         start_time = time.time()
-        
-        system_content = "You are a professional translation assistant. Output ONLY the requested translation. Do not include any explanations, notes, conversational filler, or reasoning."
-        
+
+        system_content = (
+            "You are a professional translation assistant. "
+            "Output ONLY the requested translation. "
+            "Do not include any explanations, notes, conversational filler, or reasoning."
+        )
+
         messages = [
             {"role": "system", "content": system_content},
-            {"role": "user", "content": prompt}
+            {"role": "user", "content": prompt},
         ]
 
-        stop_tokens = ["<|im_end|>"]
-        if disable_reasoning:
-            stop_tokens.extend(["</think>", "<think>"])
-
         try:
-            try:
-                # Try the native chat_template_kwargs (like llama-cli) if supported by python bindings
-                kwargs = {"chat_template_kwargs": {"enable_thinking": False}} if disable_reasoning else {}
-                response = self.llm.create_chat_completion(
-                    messages=messages,
-                    max_tokens=max_output_tokens,
-                    temperature=temperature,
-                    top_p=top_p,
-                    top_k=top_k,
-                    repeat_penalty=repeat_penalty,
-                    seed=seed,
-                    stop=stop_tokens,
-                    **kwargs
-                )
-                raw_text = response["choices"][0]["message"].get("content", "")
-            except TypeError as te:
-                # If python wrapper doesn't support chat_template_kwargs yet, fallback to manual template bypass
-                if "chat_template_kwargs" in str(te) or "unexpected keyword argument" in str(te):
-                    if disable_reasoning:
-                        prompt_str = (
-                            f"<|im_start|>system\n{system_content}<|im_end|>\n"
-                            f"<|im_start|>user\n{prompt}<|im_end|>\n"
-                            f"<|im_start|>assistant\n<think>\n\n</think>\n\n"
-                        )
-                    else:
-                        prompt_str = (
-                            f"<|im_start|>system\n{system_content}<|im_end|>\n"
-                            f"<|im_start|>user\n{prompt}<|im_end|>\n"
-                            f"<|im_start|>assistant\n"
-                        )
-                    
-                    response = self.llm(
-                        prompt_str,
-                        max_tokens=max_output_tokens,
-                        temperature=temperature,
-                        top_p=top_p,
-                        top_k=top_k,
-                        repeat_penalty=repeat_penalty,
-                        seed=seed,
-                        stop=stop_tokens,
-                        echo=False,
-                    )
-                    raw_text = response["choices"][0]["text"]
-                else:
-                    raise te
-            
+            raw_text = self._try_chat_completion(
+                messages=messages,
+                max_output_tokens=max_output_tokens,
+                temperature=temperature,
+                top_p=top_p,
+                top_k=top_k,
+                repeat_penalty=repeat_penalty,
+                seed=seed,
+                disable_reasoning=disable_reasoning,
+            )
+
             latency = time.time() - start_time
-            
-            usage = response.get("usage", {})
+
+            usage = self._last_usage
             input_tokens = usage.get("prompt_tokens", 0)
             output_tokens = usage.get("completion_tokens", 0)
 
             status = GenerationStatus.SUCCESS
-            
+
             if output_tokens >= max_output_tokens:
                 status = GenerationStatus.TRUNCATED
             elif "<think>" in raw_text and "</think>" not in raw_text:
@@ -134,8 +128,7 @@ class GGUFAdapter(Model):
                 status = GenerationStatus.EMPTY
 
             if disable_reasoning:
-                import re
-                raw_text = re.sub(r'<think>.*?</think>', '', raw_text, flags=re.DOTALL).strip()
+                raw_text = re.sub(r"<think>.*?</think>", "", raw_text, flags=re.DOTALL).strip()
 
             return GenerationResult(
                 raw_response=raw_text.strip(),
@@ -153,6 +146,45 @@ class GGUFAdapter(Model):
                 error_message=str(e),
             )
 
+    def _try_chat_completion(
+        self,
+        *,
+        messages: list[dict],
+        max_output_tokens: int,
+        temperature: float,
+        top_p: float,
+        top_k: int,
+        repeat_penalty: float,
+        seed: int | None,
+        disable_reasoning: bool,
+    ) -> str:
+        self._last_usage = {}
+
+        common_kwargs = dict(
+            messages=messages,
+            max_tokens=max_output_tokens,
+            temperature=temperature,
+            top_p=top_p,
+            top_k=top_k,
+            repeat_penalty=repeat_penalty,
+            seed=seed,
+        )
+
+        if disable_reasoning:
+            try:
+                response = self.llm.create_chat_completion(
+                    **common_kwargs,
+                    chat_template_kwargs={"enable_thinking": False},
+                )
+                self._last_usage = response.get("usage", {})
+                return response["choices"][0]["message"].get("content", "")
+            except TypeError:
+                pass
+
+        response = self.llm.create_chat_completion(**common_kwargs)
+        self._last_usage = response.get("usage", {})
+        return response["choices"][0]["message"].get("content", "")
+
     def generate_batch(
         self,
         prompts: list[str],
@@ -166,8 +198,6 @@ class GGUFAdapter(Model):
         disable_reasoning: bool = True,
         calculate_latency: bool = False,
     ) -> list[GenerationResult]:
-        # llama-cpp-python standard Llama API processes single prompts
-        # We loop sequentially. True batched generation is best done via vLLM.
         results = []
         for prompt in prompts:
             results.append(
