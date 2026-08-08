@@ -35,44 +35,91 @@ class GGUFAdapter(Model):
         type_k_val = get_ggml_type(self.config.type_k)
         type_v_val = get_ggml_type(self.config.type_v)
 
-        self.llm = self._create_llama_instance(
-            path, type_k_val, type_v_val,
-            flash_attn=self.config.flash_attn,
-        )
+        self.llm = self._create_llama_with_fallback(path, type_k_val, type_v_val)
 
-    def _create_llama_instance(
-        self, path: str, type_k_val, type_v_val, *, flash_attn: bool
-    ) -> Llama:
-        try:
-            return Llama(
-                model_path=path,
-                n_ctx=self.config.n_ctx,
-                n_gpu_layers=self.config.n_gpu_layers,
-                flash_attn=flash_attn,
-                n_batch=self.config.n_batch,
-                n_ubatch=self.config.n_ubatch,
-                type_k=type_k_val,
-                type_v=type_v_val,
-                verbose=False,
-            )
-        except Exception as init_err:
-            if flash_attn:
-                print(
-                    f"[WARN] Failed to create llama context with flash_attn=True: {init_err}"
-                    f"\n       Retrying with flash_attn=False..."
-                )
-                return Llama(
+    def _create_llama_with_fallback(self, path: str, type_k_val, type_v_val) -> Llama:
+        import llama_cpp
+
+        f16_type = getattr(llama_cpp, "GGML_TYPE_F16", 1)
+
+        fallback_chain = [
+            {
+                "label": "user config",
+                "flash_attn": self.config.flash_attn,
+                "n_ctx": self.config.n_ctx,
+                "type_k": type_k_val,
+                "type_v": type_v_val,
+                "n_batch": self.config.n_batch,
+                "n_ubatch": self.config.n_ubatch,
+            },
+            {
+                "label": "flash_attn=False",
+                "flash_attn": False,
+                "n_ctx": self.config.n_ctx,
+                "type_k": type_k_val,
+                "type_v": type_v_val,
+                "n_batch": self.config.n_batch,
+                "n_ubatch": self.config.n_ubatch,
+            },
+            {
+                "label": "flash_attn=False + KV cache f16",
+                "flash_attn": False,
+                "n_ctx": self.config.n_ctx,
+                "type_k": f16_type,
+                "type_v": f16_type,
+                "n_batch": self.config.n_batch,
+                "n_ubatch": self.config.n_ubatch,
+            },
+            {
+                "label": "flash_attn=False + KV f16 + n_ctx=4096",
+                "flash_attn": False,
+                "n_ctx": min(self.config.n_ctx, 4096),
+                "type_k": f16_type,
+                "type_v": f16_type,
+                "n_batch": min(self.config.n_batch, 512),
+                "n_ubatch": min(self.config.n_ubatch, 512),
+            },
+            {
+                "label": "minimal safe (n_ctx=2048, no flash, KV f16)",
+                "flash_attn": False,
+                "n_ctx": 2048,
+                "type_k": f16_type,
+                "type_v": f16_type,
+                "n_batch": 512,
+                "n_ubatch": 512,
+            },
+        ]
+
+        last_err = None
+        for i, params in enumerate(fallback_chain):
+            try:
+                llm = Llama(
                     model_path=path,
-                    n_ctx=self.config.n_ctx,
+                    n_ctx=params["n_ctx"],
                     n_gpu_layers=self.config.n_gpu_layers,
-                    flash_attn=False,
-                    n_batch=self.config.n_batch,
-                    n_ubatch=self.config.n_ubatch,
-                    type_k=type_k_val,
-                    type_v=type_v_val,
+                    flash_attn=params["flash_attn"],
+                    n_batch=params["n_batch"],
+                    n_ubatch=params["n_ubatch"],
+                    type_k=params["type_k"],
+                    type_v=params["type_v"],
                     verbose=False,
                 )
-            raise
+                if i > 0:
+                    print(f"[INFO] Context created successfully with: {params['label']}")
+                return llm
+            except Exception as e:
+                last_err = e
+                if i < len(fallback_chain) - 1:
+                    next_label = fallback_chain[i + 1]["label"]
+                    print(
+                        f"[WARN] Failed to create context with [{params['label']}]: {e}"
+                        f"\n       Trying fallback: {next_label}..."
+                    )
+
+        raise RuntimeError(
+            f"Failed to create llama context after all fallback attempts. "
+            f"Last error: {last_err}"
+        )
 
     def generate(
         self,
